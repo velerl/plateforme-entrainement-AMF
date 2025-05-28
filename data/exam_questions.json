@@ -1,0 +1,4360 @@
+{
+  "metadata": {
+    "total_questions": 332,
+    "total_modules": 2,
+    "created_date": "2025-05-23",
+    "source_file": "examen.txt",
+    "type": "exam_blanc",
+    "deduplication": true,
+    "themes": {
+      "Environnement réglementaire": {
+        "title": "Environnement réglementaire",
+        "question_count": 171
+      },
+      "Connaissances techniques": {
+        "title": "Connaissances techniques",
+        "question_count": 161
+      }
+    }
+  },
+  "modules": [
+    {
+      "id": 1,
+      "title": "Examen - Environnement réglementaire",
+      "full_title": "Environnement réglementaire",
+      "description": "171 questions - Environnement réglementaire",
+      "theme": "Environnement réglementaire",
+      "questions": [
+        {
+          "id": 1,
+          "original_id": 1,
+          "theme": "Environnement réglementaire",
+          "question": "Quels sont les organes collégiaux de l'AMF ?",
+          "options": {
+            "A": "Un Collège et une Commission des Sanctions",
+            "B": "Un Collège et des commissions consultatives",
+            "C": "Un Collège, une Commission des sanctions et des commissions consultatives"
+          },
+          "correct_answer": "C",
+          "explanation": ""
+        },
+        {
+          "id": 2,
+          "original_id": 2,
+          "theme": "Environnement réglementaire",
+          "question": "Quel est l'organe de tutelle et de contrôle des marchés financiers en France ?",
+          "options": {
+            "A": "La Banque de France",
+            "B": "L'AMF (Autorité des Marchés Financiers)",
+            "C": "L'ACPR (Autorité de Contrôle Prudentiel et de Résolution)"
+          },
+          "correct_answer": "B",
+          "explanation": ""
+        },
+        {
+          "id": 3,
+          "original_id": 3,
+          "theme": "Environnement réglementaire",
+          "question": "Quel est l'objectif de l'Union Bancaire Européenne ?",
+          "options": {
+            "A": "Surveiller les établissements de crédit et les entreprises d'assurance européens",
+            "B": "Contrôler la politique budgétaire et les finances publiques des États Européens",
+            "C": "Anticiper les risques de crise bancaire et mieux en traiter les conséquences si elle survient"
+          },
+          "correct_answer": "C",
+          "explanation": ""
+        },
+        {
+          "id": 4,
+          "original_id": 4,
+          "theme": "Environnement réglementaire",
+          "question": "Parmi les propositions suivantes concernant les organismes européens de supervision, laquelle est vraie ?",
+          "options": {
+            "A": "L'AEMF (ESMA en anglais) est l'organisme chargé de la supervision des marchés financiers en Europe",
+            "B": "Le CERS est l'organisme chargé de la supervision des marchés financiers en Europe",
+            "C": "L'AEMF est l'organisme chargé de la supervision des banques en Europe"
+          },
+          "correct_answer": "A",
+          "explanation": ""
+        },
+        {
+          "id": 5,
+          "original_id": 5,
+          "theme": "Environnement réglementaire",
+          "question": "Quelles sont les missions du Conseil de stabilité financière ?",
+          "options": {
+            "A": "Surveiller les négociations sur les marchés monétaires au niveau mondial",
+            "B": "Surveiller les établissements financiers au niveau mondial",
+            "C": "Surveiller le système financier mondial"
+          },
+          "correct_answer": "C",
+          "explanation": ""
+        },
+        {
+          "id": 6,
+          "original_id": 6,
+          "theme": "Environnement réglementaire",
+          "question": "Un Conseiller en Investissement Financier (CIF) :",
+          "options": {
+            "A": "Doit obligatoirement être titulaire d'un diplôme de Niveau I (Master, diplôme d'études approfondies, diplôme d'études supérieures spécialisées, diplôme d'ingénieur)",
+            "B": "Doit remplir des conditions d'âge et d'honorabilité fixées par décret",
+            "C": "Peut exercer librement en France à la seule condition qu'il commercialise des produits financiers standards"
+          },
+          "correct_answer": "B",
+          "explanation": ""
+        },
+        {
+          "id": 7,
+          "original_id": 7,
+          "theme": "Environnement réglementaire",
+          "question": "Tout conseiller en investissements financiers :",
+          "options": {
+            "A": "A l'obligation d'adhérer à une association professionnelle agréée par l'Autorité des Marchés Financiers (AMF)",
+            "B": "Est libre d'adhérer, ou non, à une association professionnelle de son choix",
+            "C": "A l'obligation d'adhérer à une association professionnelle agréée par l'Autorité de Contrôle Prudentiel et de Résolution (ACPR)"
+          },
+          "correct_answer": "A",
+          "explanation": ""
+        },
+        {
+          "id": 8,
+          "original_id": 8,
+          "theme": "Environnement réglementaire",
+          "question": "Le CIF doit :",
+          "options": {
+            "A": "Adhérer à plusieurs associations professionnelles agréées par l'AMF",
+            "B": "Adhérer à une association professionnelle agréée par l'ACPR",
+            "C": "Adhérer à une seule association professionnelle agréée par l'AMF"
+          },
+          "correct_answer": "C",
+          "explanation": ""
+        },
+        {
+          "id": 9,
+          "original_id": 9,
+          "theme": "Environnement réglementaire",
+          "question": "Pour la France, la politique monétaire est décidée par :",
+          "options": {
+            "A": "La BCE (Banque Centrale Européenne)",
+            "B": "La Banque de France",
+            "C": "Le Parlement"
+          },
+          "correct_answer": "A",
+          "explanation": ""
+        },
+        {
+          "id": 10,
+          "original_id": 10,
+          "theme": "Environnement réglementaire",
+          "question": "Quel est le taux auquel les banques commerciales peuvent emprunter à la BCE ?",
+          "options": {
+            "A": "Taux de refinancement",
+            "B": "Taux de facilité de dépôt",
+            "C": "Taux de facilité de prêt"
+          },
+          "correct_answer": "A",
+          "explanation": ""
+        },
+        {
+          "id": 11,
+          "original_id": 11,
+          "theme": "Environnement réglementaire",
+          "question": "Quel indicateur économique permet de comparer les niveaux de vie à l'échelle internationale ?",
+          "options": {
+            "A": "Le produit intérieur brut (PIB) par habitant",
+            "B": "Le taux d'endettement d'un pays rapporté au nombre d'habitants",
+            "C": "L'indicateur de confiance des ménages"
+          },
+          "correct_answer": "A",
+          "explanation": ""
+        },
+        {
+          "id": 12,
+          "original_id": 12,
+          "theme": "Environnement réglementaire",
+          "question": "Qu'est-ce que le risque de crédit ?",
+          "options": {
+            "A": "Le risque qu'un emprunteur ne rembourse pas tout ou partie de son crédit aux échéances prévues",
+            "B": "Le risque de ne pas pouvoir dénouer une position en cas d'achat ou de vente de titres",
+            "C": "Le risque résultant d'une inadaptation ou d'une défaillance des procédures"
+          },
+          "correct_answer": "A",
+          "explanation": ""
+        },
+        {
+          "id": 13,
+          "original_id": 13,
+          "theme": "Environnement réglementaire",
+          "question": "Les gestionnaires de plates-formes de négociation sont supervisés :",
+          "options": {
+            "A": "Par l'ACPR uniquement",
+            "B": "Par l'AMF uniquement",
+            "C": "Conjointement par l'ACPR et l'AMF"
+          },
+          "correct_answer": "C",
+          "explanation": ""
+        },
+        {
+          "id": 14,
+          "original_id": 14,
+          "theme": "Environnement réglementaire",
+          "question": "À quels établissements les dispositions en matière d'exigence de caractère approprié et d'exécution simple de la directive MIF II s'appliquent-elles ?",
+          "options": {
+            "A": "Uniquement aux établissements de crédit",
+            "B": "Uniquement aux établissements de crédit et aux entreprises d'investissement",
+            "C": "Aux établissements de crédit, aux entreprises d'investissement et aux sociétés de gestion recevant et traitant des ordres de souscriptions/rachats"
+          },
+          "correct_answer": "C",
+          "explanation": ""
+        },
+        {
+          "id": 15,
+          "original_id": 15,
+          "theme": "Environnement réglementaire",
+          "question": "Quelles sont les missions du responsable de la conformité d'un prestataire de services d'investissement (PSI) ?",
+          "options": {
+            "A": "Prendre en charge les conflits entre les professionnels et leurs clients",
+            "B": "Contrôler le respect par le PSI de ses obligations professionnelles",
+            "C": "Contrôler l'emploi du temps des salariés du PSI"
+          },
+          "correct_answer": "B",
+          "explanation": ""
+        },
+        {
+          "id": 16,
+          "original_id": 16,
+          "theme": "Environnement réglementaire",
+          "question": "Le code monétaire et financier impose aux PSI d'agir d'une manière qui :",
+          "options": {
+            "A": "Favorise la circulation d'informations privilégiées",
+            "B": "Permet d'offrir aux clients le meilleur rapport qualité-prix des services proposés, sans avoir à préserver l'intégrité du marché",
+            "C": "Sert au mieux l'intérêt du client et respecte l'intégrité des marchés"
+          },
+          "correct_answer": "C",
+          "explanation": ""
+        },
+        {
+          "id": 17,
+          "original_id": 17,
+          "theme": "Environnement réglementaire",
+          "question": "Parmi les trois propositions, laquelle est une transaction personnelle au sens de l'AMF ?",
+          "options": {
+            "A": "Une transaction effectuée par un PSI dans le cadre d'un mandat de gestion confié par une personne concernée",
+            "B": "Une transaction effectuée par une personne concernée pour son propre compte portant sur un OPC dont il est le gérant financier",
+            "C": "Une transaction effectuée par le PSI pour son compte propre"
+          },
+          "correct_answer": "B",
+          "explanation": ""
+        },
+        {
+          "id": 18,
+          "original_id": 18,
+          "theme": "Environnement réglementaire",
+          "question": "Les mesures prises par un prestataire de services d'investissement en matière de transactions personnelles ont vocation à s'appliquer :",
+          "options": {
+            "A": "Exclusivement aux personnes concernées intervenant dans des activités susceptibles de donner lieu à conflit d'intérêt",
+            "B": "Exclusivement aux personnes concernées ayant accès à des informations privilégiées ou confidentielles",
+            "C": "Aux personnes concernées intervenant dans des activités susceptibles de donner lieu à conflit d'intérêt ou ayant accès à des informations privilégiées ou confidentielles"
+          },
+          "correct_answer": "C",
+          "explanation": ""
+        },
+        {
+          "id": 19,
+          "original_id": 19,
+          "theme": "Environnement réglementaire",
+          "question": "En cas de litige avec un établissement de crédit, le client :",
+          "options": {
+            "A": "Doit obligatoirement s'adresser au médiateur de l'AMF",
+            "B": "Peut recourir à la médiation bancaire",
+            "C": "Doit obligatoirement porter le dossier en justice"
+          },
+          "correct_answer": "B",
+          "explanation": ""
+        },
+        {
+          "id": 20,
+          "original_id": 20,
+          "theme": "Environnement réglementaire",
+          "question": "Le délai de 2 mois maximum pour répondre à la réclamation du client est calculé :",
+          "options": {
+            "A": "À partir de la date d'envoi de la réclamation par le client",
+            "B": "À partir de la date de réception",
+            "C": "À partir de la date de traitement de la réclamation"
+          },
+          "correct_answer": "A",
+          "explanation": ""
+        },
+        {
+          "id": 21,
+          "original_id": 21,
+          "theme": "Environnement réglementaire",
+          "question": "À partir de quel montant les opérations en espèces effectuées sur un compte dépôt doivent-elles être déclarées à TRACFIN ?",
+          "options": {
+            "A": "100 000 € sur une année calendaire",
+            "B": "100 000 € sur un mois calendaire",
+            "C": "10 000 € sur un mois calendaire"
+          },
+          "correct_answer": "C",
+          "explanation": ""
+        },
+        {
+          "id": 22,
+          "original_id": 22,
+          "theme": "Environnement réglementaire",
+          "question": "Dans le cadre de la réglementation FATCA (foreign account tax compliance act) et au moment de l'entrée en relation, les PSI font compléter à leurs clients personnes physiques :",
+          "options": {
+            "A": "Un engagement sur l'honneur de se conformer aux exigences fiscales américaines",
+            "B": "Une déclaration d'intention",
+            "C": "Une auto-certification fiscale"
+          },
+          "correct_answer": "C",
+          "explanation": ""
+        },
+        {
+          "id": 23,
+          "original_id": 23,
+          "theme": "Environnement réglementaire",
+          "question": "Les mesures nationales de gel des avoirs :",
+          "options": {
+            "A": "Ne s'appliquent qu'aux établissements de crédit et aux prestataires de service d'investissement",
+            "B": "Sont à mettre en œuvre uniquement par les personnes assujetties aux obligations de lutte contre le blanchiment de capitaux et le financement du terrorisme (LCB-FT) et qui détiennent des fonds ou des ressources économiques pour le compte d'un client",
+            "C": "Sont à mettre en œuvre par toute personne physique ou morale prestataire de services"
+          },
+          "correct_answer": "C",
+          "explanation": ""
+        },
+        {
+          "id": 24,
+          "original_id": 24,
+          "theme": "Environnement réglementaire",
+          "question": "Une personne qui vend ou achète des titres d'une société cotée, pour elle-même ou pour un tiers, car elle a eu connaissance d'une information encore confidentielle grâce à sa profession, réalise :",
+          "options": {
+            "A": "Une diffusion de fausse information",
+            "B": "Une manipulation de cours",
+            "C": "Un délit d'initié"
+          },
+          "correct_answer": "C",
+          "explanation": ""
+        },
+        {
+          "id": 25,
+          "original_id": 25,
+          "theme": "Environnement réglementaire",
+          "question": "Parmi les opérations suivantes laquelle peut être considérée comme une manipulation de cours :",
+          "options": {
+            "A": "Emettre des ordres donnant des indications fausses sur l'offre ou la demande d'un instrument financier",
+            "B": "Diffuser sur son site une recommandation à la vente issue d'un cabinet de recherche financière tout en vendant à découvert le titre",
+            "C": "Utiliser des informations privilégiées pour prendre une position sur un titre avant que son cours n'augmente"
+          },
+          "correct_answer": "A",
+          "explanation": ""
+        },
+        {
+          "id": 26,
+          "original_id": 26,
+          "theme": "Environnement réglementaire",
+          "question": "Les produits dont le risque maximal n'est pas connu au moment de la souscription :",
+          "options": {
+            "A": "Peuvent être proposés dans le cadre du démarchage",
+            "B": "Ne peuvent pas être proposés dans le cadre du démarchage",
+            "C": "Peuvent être proposés dans le cadre du démarchage, après une mise en garde formalisée"
+          },
+          "correct_answer": "B",
+          "explanation": ""
+        },
+        {
+          "id": 27,
+          "original_id": 27,
+          "theme": "Environnement réglementaire",
+          "question": "Qui définit dans MIF 2, la cible d'un produit financier ?",
+          "options": {
+            "A": "Le producteur",
+            "B": "Le conservateur",
+            "C": "Le distributeur"
+          },
+          "correct_answer": "A",
+          "explanation": ""
+        },
+        {
+          "id": 28,
+          "original_id": 28,
+          "theme": "Environnement réglementaire",
+          "question": "Envers quels types de personnes le démarchage bancaire et financier peut-il s'exercer ?",
+          "options": {
+            "A": "Il ne peut s'exercer qu'envers des personnes physiques et uniquement à leur domicile",
+            "B": "Il peut s'exercer aussi bien envers des personnes physiques que des personnes morales",
+            "C": "Il ne peut s'exercer qu'envers des personnes physiques"
+          },
+          "correct_answer": "B",
+          "explanation": ""
+        },
+        {
+          "id": 29,
+          "original_id": 29,
+          "theme": "Environnement réglementaire",
+          "question": "Pour quel service le délai de rétractation ne s'applique-t-il pas ?",
+          "options": {
+            "A": "Conseil en investissements",
+            "B": "Réception - transmission d'ordres",
+            "C": "Gestion de portefeuille"
+          },
+          "correct_answer": "B",
+          "explanation": ""
+        },
+        {
+          "id": 30,
+          "original_id": 30,
+          "theme": "Environnement réglementaire",
+          "question": "L'affichage du niveau de risque et de rendement d'un produit dans le Document d'informations clés (DIC) est présenté :",
+          "options": {
+            "A": "Sur une échelle allant de 1 à 7",
+            "B": "Sur une échelle allant de 1 à 10",
+            "C": "Sur une échelle allant de 1 à 5"
+          },
+          "correct_answer": "A",
+          "explanation": ""
+        },
+        {
+          "id": 31,
+          "original_id": 31,
+          "theme": "Environnement réglementaire",
+          "question": "Quel document d'information doit-on obligatoirement remettre à un souscripteur d'OPC ?",
+          "options": {
+            "A": "Le document d'informations clés de l'OPC (DIC)",
+            "B": "Le rapport annuel de la société de gestion",
+            "C": "Le document d'information détaillé de l'OPC"
+          },
+          "correct_answer": "A",
+          "explanation": ""
+        },
+        {
+          "id": 32,
+          "original_id": 32,
+          "theme": "Environnement réglementaire",
+          "question": "La directive européenne sur les marchés et instruments financiers (MIF) classe les clients en :",
+          "options": {
+            "A": "Quatre catégories : clients non professionnels, clients professionnels, contreparties éligibles ou contreparties personnes morales",
+            "B": "Deux catégories : clients non professionnels ou clients professionnels",
+            "C": "Trois catégories : clients non professionnels, clients professionnels, contreparties éligibles"
+          },
+          "correct_answer": "C",
+          "explanation": ""
+        },
+        {
+          "id": 33,
+          "original_id": 33,
+          "theme": "Environnement réglementaire",
+          "question": "Un client non-professionnel peut-il renoncer à une partie de la protection que lui offrent les règles de bonne conduite ?",
+          "options": {
+            "A": "Oui, il peut, tout en gardant sa catégorie, renoncer librement aux protections que cette catégorie lui apporte",
+            "B": "Non, il ne peut pas changer de catégorie ni renoncer à la protection afférente à sa catégorie",
+            "C": "Oui, il peut, s'il respecte certains critères, renoncer à une partie de la protection que lui offre sa catégorie"
+          },
+          "correct_answer": "C",
+          "explanation": ""
+        },
+        {
+          "id": 34,
+          "original_id": 34,
+          "theme": "Environnement réglementaire",
+          "question": "La classification d'un client par un PSI (Prestataire de Services d'Investissement) dans la catégorie la moins experte en matière financière a quel effet ?",
+          "options": {
+            "A": "Le client bénéficie d'un niveau de protection le plus élevé",
+            "B": "Le client est dirigé vers un établissement public",
+            "C": "L'entrée en relation est refusée"
+          },
+          "correct_answer": "A",
+          "explanation": ""
+        },
+        {
+          "id": 35,
+          "original_id": 35,
+          "theme": "Environnement réglementaire",
+          "question": "Un client est classé dans la catégorie des clients professionnels par le PSI (Prestataire de Services d'Investissement), lorsqu'il :",
+          "options": {
+            "A": "Possède l'expérience, les connaissances et la compétence lui permettant d'évaluer correctement les risques encourus par ses décisions d'investissement",
+            "B": "Est le représentant légal d'une structure inscrite au Registre du Commerce et des Sociétés",
+            "C": "Possède une carte professionnelle"
+          },
+          "correct_answer": "A",
+          "explanation": ""
+        },
+        {
+          "id": 36,
+          "original_id": 36,
+          "theme": "Environnement réglementaire",
+          "question": "Dans le cadre de la catégorisation d'un client, qui informe ce client de la catégorie à laquelle il est affecté ?",
+          "options": {
+            "A": "L'ACPR",
+            "B": "L'AMF",
+            "C": "Le PSI"
+          },
+          "correct_answer": "C",
+          "explanation": ""
+        },
+        {
+          "id": 37,
+          "original_id": 37,
+          "theme": "Environnement réglementaire",
+          "question": "Le commissaire aux comptes d'une société de gestion de portefeuille peut-il opposer le secret professionnel lors d'une enquête de l'Autorité des Marchés Financiers ?",
+          "options": {
+            "A": "En aucun cas",
+            "B": "Toujours",
+            "C": "Dans certains cas"
+          },
+          "correct_answer": "A",
+          "explanation": ""
+        },
+        {
+          "id": 38,
+          "original_id": 38,
+          "theme": "Environnement réglementaire",
+          "question": "Une « violation de données à caractère personnel » consiste en une violation de la sécurité :",
+          "options": {
+            "A": "De manière accidentelle ou illicite",
+            "B": "De manière accidentelle uniquement",
+            "C": "De manière illicite uniquement"
+          },
+          "correct_answer": "A",
+          "explanation": ""
+        },
+        {
+          "id": 39,
+          "original_id": 39,
+          "theme": "Environnement réglementaire",
+          "question": "Un avis d'opéré doit obligatoirement être adressé au client :",
+          "options": {
+            "A": "Après chaque exécution d'ordre",
+            "B": "Annuellement",
+            "C": "Mensuellement avec son relevé bancaire"
+          },
+          "correct_answer": "A",
+          "explanation": ""
+        },
+        {
+          "id": 40,
+          "original_id": 40,
+          "theme": "Environnement réglementaire",
+          "question": "Le porteur de parts ou actionnaire d'un OPCVM doit-il être informé lorsqu'une rémunération, une commission ou un avantage non monétaire est versé par un tiers à une société de gestion de portefeuille en liaison avec la gestion d'un OPCVM ?",
+          "options": {
+            "A": "Oui, il doit être informé de son existence et de sa nature uniquement",
+            "B": "Oui, il doit être informé de son existence uniquement",
+            "C": "Oui, il doit être informé de son existence, sa nature et de son montant"
+          },
+          "correct_answer": "C",
+          "explanation": ""
+        },
+        {
+          "id": 41,
+          "original_id": 41,
+          "theme": "Environnement réglementaire",
+          "question": "Quelle information le PSI doit-il obligatoirement donner au client non professionnel ?",
+          "options": {
+            "A": "Une brève description des mesures de protection des instruments financiers ou des espèces qu'il détient pour le compte des clients",
+            "B": "Le nombre de ses effectifs",
+            "C": "Les pays dans lesquels il est présent"
+          },
+          "correct_answer": "A",
+          "explanation": ""
+        },
+        {
+          "id": 42,
+          "original_id": 42,
+          "theme": "Environnement réglementaire",
+          "question": "Lorsqu'un ordre de bourse est exécuté en plusieurs fois dans une même journée, le PSI informe le client non professionnel :",
+          "options": {
+            "A": "En lui envoyant autant d'avis d'opérations qu'il y a eu d'exécutions",
+            "B": "En lui envoyant un seul avis d'opéré sans possibilité de connaître le détail de l'exécution",
+            "C": "Soit du prix de chaque tranche, soit du prix moyen d'exécution"
+          },
+          "correct_answer": "C",
+          "explanation": ""
+        },
+        {
+          "id": 43,
+          "original_id": 43,
+          "theme": "Environnement réglementaire",
+          "question": "La SGP qui reçoit un ordre de souscription ou de rachat de parts ou actions d'OPCVM adresse à l'investisseur non professionnel sur un support durable un avis confirmant l'exécution de l'ordre :",
+          "options": {
+            "A": "Dès que possible et au plus tard au cours du premier jour ouvrable suivant l'exécution de l'ordre",
+            "B": "Sous 5 jours ouvrés à compter de l'exécution de l'ordre",
+            "C": "Avant la fin du mois en cours"
+          },
+          "correct_answer": "A",
+          "explanation": ""
+        },
+        {
+          "id": 44,
+          "original_id": 44,
+          "theme": "Environnement réglementaire",
+          "question": "Concernant les informations recueillies sur le client, de quoi doit s'assurer le PSI ?",
+          "options": {
+            "A": "Que le questionnaire est compréhensible et permet d'évaluer l'adéquation des produits ou services proposés",
+            "B": "Que le questionnaire est compréhensible et autorise à passer les ordres de bourse",
+            "C": "Que le questionnaire est compréhensible et permet de fixer une tarification sur les services proposés"
+          },
+          "correct_answer": "A",
+          "explanation": ""
+        },
+        {
+          "id": 45,
+          "original_id": 45,
+          "theme": "Environnement réglementaire",
+          "question": "Que doit faire le PSI quand le client refuse de lui fournir les informations nécessaires pour le test d'adéquation ?",
+          "options": {
+            "A": "Offrir au client un délai de réflexion",
+            "B": "Mettre en garde le client",
+            "C": "S'abstenir de fournir le service d'investissement"
+          },
+          "correct_answer": "C",
+          "explanation": ""
+        },
+        {
+          "id": 46,
+          "original_id": 46,
+          "theme": "Environnement réglementaire",
+          "question": "Dans le cadre de la relation client, le test d'adéquation s'applique :",
+          "options": {
+            "A": "À la gestion de portefeuille et au conseil en investissement",
+            "B": "Uniquement aux clients non professionnels",
+            "C": "À l'exécution simple"
+          },
+          "correct_answer": "A",
+          "explanation": ""
+        },
+        {
+          "id": 47,
+          "original_id": 47,
+          "theme": "Environnement réglementaire",
+          "question": "En cas de litige entre un PSI et son client sur l'exécution d'un ordre, le PSI :",
+          "options": {
+            "A": "Doit mettre le client en relation avec le gestionnaire du système de cotation sur lequel l'ordre a été exécuté",
+            "B": "Doit pouvoir démontrer qu'il a exécuté son ordre conformément à sa politique d'exécution",
+            "C": "Doit obligatoirement en informer l'AMF"
+          },
+          "correct_answer": "B",
+          "explanation": ""
+        },
+        {
+          "id": 48,
+          "original_id": 48,
+          "theme": "Environnement réglementaire",
+          "question": "Le principe général que doivent adopter les PSI lors de l'exécution des ordres est de rechercher le meilleur résultat possible :",
+          "options": {
+            "A": "Pour les contreparties éligibles",
+            "B": "Pour tous les clients",
+            "C": "Pour les clients professionnels"
+          },
+          "correct_answer": "B",
+          "explanation": ""
+        },
+        {
+          "id": 49,
+          "original_id": 49,
+          "theme": "Environnement réglementaire",
+          "question": "Dans le cadre de la meilleure exécution des ordres, parmi ces lieux, lesquels doivent faire l'objet d'un accord préalable du client ?",
+          "options": {
+            "A": "Les marchés règlementés",
+            "B": "Les internalisateurs systématiques",
+            "C": "Les plateformes multilatérales de négociation"
+          },
+          "correct_answer": "B",
+          "explanation": ""
+        },
+        {
+          "id": 50,
+          "original_id": 50,
+          "theme": "Environnement réglementaire",
+          "question": "La commission de gestion d'un OPCVM (Organisme de Placement Collectif en Valeurs Mobilières) peut comprendre une part variable liée :",
+          "options": {
+            "A": "Aux coûts de gestion imprévus",
+            "B": "À la surperformance de l'OPCVM",
+            "C": "Au nombre de souscripteurs de l'OPCVM"
+          },
+          "correct_answer": "B",
+          "explanation": ""
+        },
+        {
+          "id": 51,
+          "original_id": 51,
+          "theme": "Environnement réglementaire",
+          "question": "La commission de souscription à un Organisme de Placement Collectif équivaut à :",
+          "options": {
+            "A": "Ni l'un, ni l'autre",
+            "B": "Un impôt",
+            "C": "Un droit d'entrée"
+          },
+          "correct_answer": "C",
+          "explanation": ""
+        },
+        {
+          "id": 52,
+          "original_id": 52,
+          "theme": "Environnement réglementaire",
+          "question": "Quel régime de protection permet à une personne majeure incapable de conserver l'exercice de ses droits mais dont les actes peuvent être annulés s'ils nuisent à ses intérêts ?",
+          "options": {
+            "A": "Aucun",
+            "B": "Le régime de la tutelle",
+            "C": "Le régime de la curatelle"
+          },
+          "correct_answer": "C",
+          "explanation": ""
+        },
+        {
+          "id": 53,
+          "original_id": 53,
+          "theme": "Environnement réglementaire",
+          "question": "Quelle est la finalité du redressement judiciaire d'une entreprise en difficulté ?",
+          "options": {
+            "A": "La sauvegarde de la valeur actionnariale de l'entreprise",
+            "B": "La poursuite de l'activité, le maintien de l'emploi et l'apurement du passif",
+            "C": "La liquidation de l'entreprise"
+          },
+          "correct_answer": "B",
+          "explanation": ""
+        },
+        {
+          "id": 54,
+          "original_id": 54,
+          "theme": "Environnement réglementaire",
+          "question": "Les PSI peuvent-ils utiliser les titres appartenant à leur client ?",
+          "options": {
+            "A": "Oui, à condition d'en aviser expressément l'AMF",
+            "B": "Oui, s'ils ont le consentement exprès des clients",
+            "C": "Oui, à condition d'être toujours en mesure de leur restituer dans un délai raisonnable"
+          },
+          "correct_answer": "B",
+          "explanation": ""
+        },
+        {
+          "id": 55,
+          "original_id": 55,
+          "theme": "Environnement réglementaire",
+          "question": "Dans quel délai les titulaires de dépôts bancaires doivent-ils être indemnisés en cas de défaillance de la banque (dans la limite du montant garanti) ?",
+          "options": {
+            "A": "7 jours ouvrables",
+            "B": "10 jours ouvrables",
+            "C": "20 jours ouvrables"
+          },
+          "correct_answer": "A",
+          "explanation": ""
+        },
+        {
+          "id": 56,
+          "original_id": 56,
+          "theme": "Environnement réglementaire",
+          "question": "La publicité, directe ou indirecte, adressée par voie électronique à des clients non professionnels relative à la fourniture de services d'investissement portant sur les contrats d'options binaires est :",
+          "options": {
+            "A": "Autorisée si les options binaires ont un prix supérieur à 100 €",
+            "B": "Autorisée sans restriction",
+            "C": "Interdite"
+          },
+          "correct_answer": "C",
+          "explanation": ""
+        },
+        {
+          "id": 57,
+          "original_id": 1,
+          "theme": "Environnement réglementaire",
+          "question": "Qui agrée les associations représentatives des CIF (Conseillers en Investissements Financiers) ?",
+          "options": {
+            "A": "Le ministère des finances",
+            "B": "L'AMF (Autorité des Marchés Financiers)",
+            "C": "La Banque de France"
+          },
+          "correct_answer": "B",
+          "explanation": ""
+        },
+        {
+          "id": 58,
+          "original_id": 2,
+          "theme": "Environnement réglementaire",
+          "question": "Quel organisme décide des dispositifs de résolution applicables aux banques défaillantes ?",
+          "options": {
+            "A": "L'AMF (Autorité des Marchés Financiers)",
+            "B": "La cellule TRACFIN (Traitement du renseignement et action contre les circuits financiers clandestins)",
+            "C": "L'ACPR (Autorité de Contrôle Prudentiel et de Résolution)"
+          },
+          "correct_answer": "C",
+          "explanation": ""
+        },
+        {
+          "id": 59,
+          "original_id": 3,
+          "theme": "Environnement réglementaire",
+          "question": "Qu'est-ce que le Mécanisme de surveillance unique (MSU) ?",
+          "options": {
+            "A": "Le système de surveillance financière composé de l'Autorité Bancaire Européenne (ABE) et des autorités compétentes nationales des États membres participants",
+            "B": "Le système de surveillance financière composé de la Banque Centrale Européenne (BCE) et des autorités compétentes nationales des États membres participants",
+            "C": "Le système de surveillance financière composé de l'Autorité Européenne des Marchés Financiers (AEMF) et des autorités compétentes nationales des États membres participants"
+          },
+          "correct_answer": "B",
+          "explanation": ""
+        },
+        {
+          "id": 60,
+          "original_id": 4,
+          "theme": "Environnement réglementaire",
+          "question": "Quels sont les états concernés par l'Union Bancaire ?",
+          "options": {
+            "A": "Les États européens",
+            "B": "Les États de la zone euro",
+            "C": "Les États de la zone euro et les États de l'UE ayant établi une \"coopération rapprochée\" avec la Banque Centrale Européenne (BCE)"
+          },
+          "correct_answer": "C",
+          "explanation": ""
+        },
+        {
+          "id": 61,
+          "original_id": 5,
+          "theme": "Environnement réglementaire",
+          "question": "Quel est la mission principale du Comité de Bâle ?",
+          "options": {
+            "A": "Renforcer la solidité du système financier mondial, l'efficacité du contrôle prudentiel et la coopération entre régulateurs",
+            "B": "Mettre en place les outils de communication entre pays pour limiter au maximum la fraude fiscale",
+            "C": "Contribuer à l'amélioration de l'état du monde financier en réunissant régulièrement les acteurs internationaux"
+          },
+          "correct_answer": "A",
+          "explanation": ""
+        },
+        {
+          "id": 62,
+          "original_id": 6,
+          "theme": "Environnement réglementaire",
+          "question": "Quelle est la condition préalable pour qu'un conseiller en investissements financiers puisse formuler un conseil ?",
+          "options": {
+            "A": "Être le représentant d'un IOBSP",
+            "B": "Être immatriculé au Registre du Commerce et des Sociétés pour son activité",
+            "C": "Faire signer une lettre de mission à son client"
+          },
+          "correct_answer": "C",
+          "explanation": ""
+        },
+        {
+          "id": 63,
+          "original_id": 7,
+          "theme": "Environnement réglementaire",
+          "question": "Pour exercer leur activité, les sociétés de gestion de portefeuille doivent obtenir l'agrément :",
+          "options": {
+            "A": "De l'AMF uniquement",
+            "B": "De l'AMF et de l'ACPR",
+            "C": "De l'AMF (Autorité des Marchés Financiers) et de la BCE (Banque Centrale Européenne)"
+          },
+          "correct_answer": "A",
+          "explanation": ""
+        },
+        {
+          "id": 64,
+          "original_id": 8,
+          "theme": "Environnement réglementaire",
+          "question": "Quelle est l'une des obligations des Conseillers en Investissements Financiers ?",
+          "options": {
+            "A": "Disposer de moyens techniques et de procédures adaptés à son activité",
+            "B": "Disposer d'un responsable de la conformité et du contrôle interne",
+            "C": "Disposer d'un budget minimum de 100 000 euros"
+          },
+          "correct_answer": "A",
+          "explanation": ""
+        },
+        {
+          "id": 65,
+          "original_id": 9,
+          "theme": "Environnement réglementaire",
+          "question": "Qui mène la politique monétaire de l'Union monétaire Européenne ?",
+          "options": {
+            "A": "La BCE seule",
+            "B": "L'Eurosystème",
+            "C": "La Commission européenne"
+          },
+          "correct_answer": "B",
+          "explanation": ""
+        },
+        {
+          "id": 66,
+          "original_id": 10,
+          "theme": "Environnement réglementaire",
+          "question": "Par quel événement un risque systémique peut-il être provoqué ?",
+          "options": {
+            "A": "Par une défaillance massive des emprunteurs d'un petit établissement financier",
+            "B": "Par une défaillance de société cotée sur Euronext Growth",
+            "C": "Par une défaillance massive des emprunteurs d'un gros établissement financier"
+          },
+          "correct_answer": "C",
+          "explanation": ""
+        },
+        {
+          "id": 67,
+          "original_id": 11,
+          "theme": "Environnement réglementaire",
+          "question": "Qu'est-ce que le risque de crédit ?",
+          "options": {
+            "A": "Le risque de ne pas pouvoir dénouer une position en cas d'achat ou de vente de titres",
+            "B": "Le risque résultant d'une inadaptation ou d'une défaillance des procédures",
+            "C": "Le risque qu'un emprunteur ne rembourse pas tout ou partie de son crédit aux échéances prévues"
+          },
+          "correct_answer": "C",
+          "explanation": ""
+        },
+        {
+          "id": 68,
+          "original_id": 12,
+          "theme": "Environnement réglementaire",
+          "question": "Le sigle BRICS désigne :",
+          "options": {
+            "A": "Le Brésil, la Russie, l'Inde, la Chine, l'Afrique du sud",
+            "B": "La Banque de Réserve Internationale de Commerce",
+            "C": "Le Burundi, le Rwanda, l'Indonésie, le Congo, le Sahel"
+          },
+          "correct_answer": "A",
+          "explanation": ""
+        },
+        {
+          "id": 69,
+          "original_id": 13,
+          "theme": "Environnement réglementaire",
+          "question": "Quels PSI doivent obtenir l'agrément de l'AMF pour exercer leur activité ?",
+          "options": {
+            "A": "Les sociétés de gestion de portefeuille",
+            "B": "Les établissements de crédit",
+            "C": "Les entreprises d'assurance"
+          },
+          "correct_answer": "A",
+          "explanation": ""
+        },
+        {
+          "id": 70,
+          "original_id": 14,
+          "theme": "Environnement réglementaire",
+          "question": "Les sociétés de gestion de portefeuille (SGP) ont un niveau de fonds propres :",
+          "options": {
+            "A": "Règlementé par des dispositions spécifiques définies par le code monétaire et financier et précisées dans le règlement général de l'Autorité des Marchés Financiers et renforcé depuis la Directive AIFM",
+            "B": "Règlementé par le dispositif \"Bâle II\"",
+            "C": "De droit commun comme toute société commerciale"
+          },
+          "correct_answer": "A",
+          "explanation": ""
+        },
+        {
+          "id": 71,
+          "original_id": 15,
+          "theme": "Environnement réglementaire",
+          "question": "Parmi les règles de bonne conduite imposées par la directive MIF aux prestataires de services d'investissement figure l'obligation :",
+          "options": {
+            "A": "De nommer un responsable de conformité pour chaque service d'investissement",
+            "B": "De délivrer des informations correctes, claires et non trompeuses aux clients",
+            "C": "De s'abstenir de commercialiser des produits risqués aux clients"
+          },
+          "correct_answer": "B",
+          "explanation": ""
+        },
+        {
+          "id": 72,
+          "original_id": 16,
+          "theme": "Environnement réglementaire",
+          "question": "Au sein d'un Prestataire de Services d'Investissement (PSI) la fonction conformité :",
+          "options": {
+            "A": "Est indépendante de tout contrôle et ne rapporte qu'aux autorités de surveillance (AMF et ACPR) qui contrôlent et valident qu'elle dispose chaque année d'une équipe et d'un budget adéquat",
+            "B": "Est autonome, rattachée directement à la Direction et doit disposer des moyens matériels et humains suffisants",
+            "C": "Est directement rattachée aux services opérationnels pour favoriser les interactions et bénéficier des moyens matériels de ces services"
+          },
+          "correct_answer": "B",
+          "explanation": ""
+        },
+        {
+          "id": 73,
+          "original_id": 17,
+          "theme": "Environnement réglementaire",
+          "question": "Les personnes qui participent à la fonction de conformité au sein d'une société de gestion de portefeuille d'OPCVM :",
+          "options": {
+            "A": "Ne doivent pas être impliquées dans l'exécution des services et activités qu'elles contrôlent",
+            "B": "Doivent être impliquées dans l'exécution des services et activités qu'elles contrôlent",
+            "C": "Peuvent être impliquées dans l'exécution des services et activités qu'elles contrôlent"
+          },
+          "correct_answer": "A",
+          "explanation": ""
+        },
+        {
+          "id": 74,
+          "original_id": 18,
+          "theme": "Environnement réglementaire",
+          "question": "Un lanceur d'alerte salarié d'une entreprise doit effectuer son signalement :",
+          "options": {
+            "A": "Obligatoirement à sa hiérarchie",
+            "B": "Directement aux autorités s'il y a urgence",
+            "C": "À aucune personne si le règlement intérieur le lui interdit"
+          },
+          "correct_answer": "B",
+          "explanation": ""
+        },
+        {
+          "id": 75,
+          "original_id": 19,
+          "theme": "Environnement réglementaire",
+          "question": "Dans quel cas le médiateur de l'AMF peut-il intervenir ?",
+          "options": {
+            "A": "Pour les réclamations émanant d'un client non professionnel uniquement",
+            "B": "Pour les réclamations émanant des clients professionnels ou non professionnels",
+            "C": "Pour les réclamations émanant d'un client professionnel uniquement"
+          },
+          "correct_answer": "B",
+          "explanation": ""
+        },
+        {
+          "id": 76,
+          "original_id": 20,
+          "theme": "Environnement réglementaire",
+          "question": "Quelle condition doit être remplie pour les réclamations exprimées à l'oral ou par messagerie instantanée ne permettant pas au client de disposer d'une copie datée de sa réclamation ?",
+          "options": {
+            "A": "Les réclamations doivent être ignorées car elles ne sont pas valables",
+            "B": "Le client doit recevoir une réponse immédiate à sa réclamation",
+            "C": "Le client doit être invité à exprimer sa réclamation par écrit s'il ne peut pas obtenir une satisfaction immédiate"
+          },
+          "correct_answer": "C",
+          "explanation": ""
+        },
+        {
+          "id": 77,
+          "original_id": 21,
+          "theme": "Environnement réglementaire",
+          "question": "Quelle obligation s'impose en matière de lutte contre le blanchiment ?",
+          "options": {
+            "A": "Connaître le client à l'entrée en relation et tout au long de la relation d'affaires",
+            "B": "Connaître le client à l'entrée en relation uniquement",
+            "C": "Diminuer les obligations de vigilance pour les clients de longue date"
+          },
+          "correct_answer": "A",
+          "explanation": ""
+        },
+        {
+          "id": 78,
+          "original_id": 22,
+          "theme": "Environnement réglementaire",
+          "question": "Comment qualifie-t-on l'acte d'apporter son concours à une opération de placement du produit direct ou indirect d'un crime ou d'un délit ?",
+          "options": {
+            "A": "Blanchiment d'argent",
+            "B": "Délit d'initié",
+            "C": "Manipulation de cours"
+          },
+          "correct_answer": "A",
+          "explanation": ""
+        },
+        {
+          "id": 79,
+          "original_id": 23,
+          "theme": "Environnement réglementaire",
+          "question": "L'identification des personnes exposées politiquement a pour but :",
+          "options": {
+            "A": "La protection d'une catégorie spécifique de clients pour des raisons politiques",
+            "B": "La lutte contre le blanchiment d'argent",
+            "C": "La prévention du gel des avoirs de ces personnes"
+          },
+          "correct_answer": "B",
+          "explanation": ""
+        },
+        {
+          "id": 80,
+          "original_id": 24,
+          "theme": "Environnement réglementaire",
+          "question": "Pendant combien de temps les listes d'initiés doivent-elles être conservées par les émetteurs ou toute personne agissant en leur nom ou pour leur compte ?",
+          "options": {
+            "A": "Pendant au moins cinq ans après leur établissement ou leur mise à jour",
+            "B": "Pendant au moins trois ans après leur établissement ou leur mise à jour",
+            "C": "Pendant au moins dix ans après leur établissement ou leur mise à jour"
+          },
+          "correct_answer": "A",
+          "explanation": ""
+        },
+        {
+          "id": 81,
+          "original_id": 25,
+          "theme": "Environnement réglementaire",
+          "question": "Le fait pour une personne de réaliser des transactions est constitutif d'un délit d'initié :",
+          "options": {
+            "A": "Dans le cas d'une publication dans une lettre de recommandation boursière réservée à ses abonnés",
+            "B": "Dans le cas d'une recommandation dont elle sait ou devrait savoir qu'elle est fondée sur une information privilégiée",
+            "C": "Dans le cas d'une recommandation publiée dans des journaux spécialisés de faible diffusion"
+          },
+          "correct_answer": "B",
+          "explanation": ""
+        },
+        {
+          "id": 82,
+          "original_id": 26,
+          "theme": "Environnement réglementaire",
+          "question": "Parmi les propositions suivantes, laquelle peut caractériser un potentiel acte de démarchage ?",
+          "options": {
+            "A": "Le fait d'être sollicité au guichet d'un prestataire de services d'investissement sans l'avoir demandé",
+            "B": "Le fait de souscrire un produit d'épargne à la suite d'une campagne publicitaire générale",
+            "C": "Le fait pour une personne d'être contacté en dehors des locaux du prestataire de services d'investissement"
+          },
+          "correct_answer": "C",
+          "explanation": ""
+        },
+        {
+          "id": 83,
+          "original_id": 27,
+          "theme": "Environnement réglementaire",
+          "question": "Les produits dont le risque maximal n'est pas connu au moment de la souscription :",
+          "options": {
+            "A": "Peuvent être proposés dans le cadre du démarchage, après une mise en garde formalisée",
+            "B": "Peuvent être proposés dans le cadre du démarchage",
+            "C": "Ne peuvent pas être proposés dans le cadre du démarchage"
+          },
+          "correct_answer": "C",
+          "explanation": ""
+        },
+        {
+          "id": 84,
+          "original_id": 28,
+          "theme": "Environnement réglementaire",
+          "question": "Lorsqu'une personne démarchée pour des services bancaires ou financiers exerce son droit de rétractation :",
+          "options": {
+            "A": "Elle ne peut être tenue qu'au paiement d'une pénalité",
+            "B": "Elle ne peut être tenue qu'au paiement du prix correspondant à l'utilisation du produit ou du service financier effectivement fourni entre la date de conclusion du contrat et celle de l'exercice du droit de rétractation",
+            "C": "Elle peut être tenue au paiement du prix de l'ensemble du service auquel s'ajoute une pénalité"
+          },
+          "correct_answer": "B",
+          "explanation": ""
+        },
+        {
+          "id": 85,
+          "original_id": 29,
+          "theme": "Environnement réglementaire",
+          "question": "En matière de vente à distance, le délai de rétractation est, en principe, de :",
+          "options": {
+            "A": "14 jours",
+            "B": "30 jours",
+            "C": "5 jours"
+          },
+          "correct_answer": "A",
+          "explanation": ""
+        },
+        {
+          "id": 86,
+          "original_id": 30,
+          "theme": "Environnement réglementaire",
+          "question": "L'objectif du règlement PRIIPs (produits d'investissement packagés de détail et fondés sur l'assurance) est :",
+          "options": {
+            "A": "De favoriser l'investissement dans les fonds en euros",
+            "B": "De faciliter la compréhension des caractéristiques des produits par les clients non professionnels et leur comparaison par la mise en place d'un document d'information standardisé",
+            "C": "D'interdire la commercialisation de produits risqués aux clients non professionnels"
+          },
+          "correct_answer": "B",
+          "explanation": ""
+        },
+        {
+          "id": 87,
+          "original_id": 31,
+          "theme": "Environnement réglementaire",
+          "question": "Le DIC est l'acronyme de :",
+          "options": {
+            "A": "Document d'informations clés",
+            "B": "Document international du conseiller",
+            "C": "Document d'information pour le conseil"
+          },
+          "correct_answer": "A",
+          "explanation": ""
+        },
+        {
+          "id": 88,
+          "original_id": 32,
+          "theme": "Environnement réglementaire",
+          "question": "Quelle proposition suivante est exacte ?",
+          "options": {
+            "A": "Le PSI à l'obligation d'accepter la demande d'un client professionnel d'être traité comme un client non professionnel",
+            "B": "Un client professionnel peut demander au PSI à être traité comme un client non professionnel",
+            "C": "Le Prestataire de Services d'Investissement (PSI) peut décider unilatéralement de classer un client non professionnel par nature en client professionnel"
+          },
+          "correct_answer": "B",
+          "explanation": ""
+        },
+        {
+          "id": 89,
+          "original_id": 33,
+          "theme": "Environnement réglementaire",
+          "question": "La catégorie à laquelle appartient le client :",
+          "options": {
+            "A": "Peut être communiquée par le PSI au client",
+            "B": "Ne peut en aucun cas être communiquée par le PSI au client",
+            "C": "Doit obligatoirement être communiquée par le PSI au client"
+          },
+          "correct_answer": "C",
+          "explanation": ""
+        },
+        {
+          "id": 90,
+          "original_id": 34,
+          "theme": "Environnement réglementaire",
+          "question": "Le prestataire de services d'investissement peut classer ses clients dans les catégories suivantes :",
+          "options": {
+            "A": "Investisseurs ou particuliers",
+            "B": "Client professionnel ou client non professionnel uniquement",
+            "C": "Client professionnel, client non professionnel, contrepartie éligible"
+          },
+          "correct_answer": "C",
+          "explanation": ""
+        },
+        {
+          "id": 91,
+          "original_id": 35,
+          "theme": "Environnement réglementaire",
+          "question": "Concernant la catégorisation d'un client, que pouvez-vous affirmer ?",
+          "options": {
+            "A": "Le changement de catégorie s'effectue sur la seule demande du client",
+            "B": "Un client non professionnel peut devenir contrepartie éligible",
+            "C": "Un client professionnel peut demander au PSI de le considérer comme non professionnel pour une transaction déterminée"
+          },
+          "correct_answer": "C",
+          "explanation": ""
+        },
+        {
+          "id": 92,
+          "original_id": 36,
+          "theme": "Environnement réglementaire",
+          "question": "Depuis la mise en place de Directive européenne 2004/39/CE dite \"Marchés d'Instruments Financiers\", les clients sont en droit de connaître la catégorie de classification à laquelle ils appartiennent :",
+          "options": {
+            "A": "Dans tous les cas",
+            "B": "En aucun cas",
+            "C": "Dans certains cas"
+          },
+          "correct_answer": "A",
+          "explanation": ""
+        },
+        {
+          "id": 93,
+          "original_id": 37,
+          "theme": "Environnement réglementaire",
+          "question": "Parmi les propositions suivantes, quel est le Règlement européen protégeant les données des personnes physiques ?",
+          "options": {
+            "A": "Le Règlement Général sur la Protection des Données (RGPD)",
+            "B": "Le Règlement Européen sur la Protection des Données (REPD)",
+            "C": "Le Règlement Général sur la Protection des Données Personnelles (RGPDP)"
+          },
+          "correct_answer": "A",
+          "explanation": ""
+        },
+        {
+          "id": 94,
+          "original_id": 38,
+          "theme": "Environnement réglementaire",
+          "question": "Quel degré de précision doit apparaître sur l'avis d'opération envoyé au client ?",
+          "options": {
+            "A": "Il doit préciser la journée et l'heure d'exécution de l'ordre",
+            "B": "Il doit préciser uniquement la journée d'exécution de l'ordre",
+            "C": "Il doit préciser le mois boursier et la journée d'exécution de l'ordre"
+          },
+          "correct_answer": "A",
+          "explanation": ""
+        },
+        {
+          "id": 95,
+          "original_id": 39,
+          "theme": "Environnement réglementaire",
+          "question": "Dans le cadre de MIF 2, quels sont notamment les documents à adresser à son client par le CIF ?",
+          "options": {
+            "A": "Les prévisions d'évolution des marchés",
+            "B": "Le compte rendu de gestion de portefeuille",
+            "C": "La description du type de conseil : indépendant ou pas"
+          },
+          "correct_answer": "C",
+          "explanation": ""
+        },
+        {
+          "id": 96,
+          "original_id": 40,
+          "theme": "Environnement réglementaire",
+          "question": "Le PSI doit indiquer au client si le conseil en investissement est fourni de manière indépendante :",
+          "options": {
+            "A": "Avant la fourniture du service",
+            "B": "Seulement si le client le demande",
+            "C": "A posteriori de la fourniture du service"
+          },
+          "correct_answer": "A",
+          "explanation": ""
+        },
+        {
+          "id": 97,
+          "original_id": 41,
+          "theme": "Environnement réglementaire",
+          "question": "Le régime d'exécution simple d'ordres concerne :",
+          "options": {
+            "A": "Uniquement les actions admises sur un marché réglementé",
+            "B": "Exclusivement des actions",
+            "C": "Uniquement les instruments financiers non complexes"
+          },
+          "correct_answer": "C",
+          "explanation": ""
+        },
+        {
+          "id": 98,
+          "original_id": 42,
+          "theme": "Environnement réglementaire",
+          "question": "Lorsqu'un nouveau conseiller qui devra informer et conseiller les clients en vue de transactions sur instruments financiers est recruté par un PSI, la vérification des connaissances minimales de l'AMF doit avoir lieu au plus tard :",
+          "options": {
+            "A": "5 ans après le recrutement",
+            "B": "2 ans après le recrutement",
+            "C": "6 mois après le recrutement"
+          },
+          "correct_answer": "C",
+          "explanation": ""
+        },
+        {
+          "id": 99,
+          "original_id": 43,
+          "theme": "Environnement réglementaire",
+          "question": "La SGP exerce les droits attachés aux titres détenus par les OPCVM et les FIA qu'elle gère :",
+          "options": {
+            "A": "Dans l'intérêt exclusif des actionnaires ou des porteurs de parts de ces OPCVM et FIA",
+            "B": "Dans l'intérêt conjoint des actionnaires ou des porteurs de parts de ces OPCVM et FIA et de la SGP",
+            "C": "Dans son intérêt exclusif"
+          },
+          "correct_answer": "A",
+          "explanation": ""
+        },
+        {
+          "id": 100,
+          "original_id": 44,
+          "theme": "Environnement réglementaire",
+          "question": "La politique d'exécution d'un PSI inclut, entre autres :",
+          "options": {
+            "A": "La détermination des lieux d'exécution",
+            "B": "La tarification des droits de garde",
+            "C": "La politique d'exercice des droits de vote"
+          },
+          "correct_answer": "A",
+          "explanation": ""
+        },
+        {
+          "id": 101,
+          "original_id": 45,
+          "theme": "Environnement réglementaire",
+          "question": "Dans quel cas le PSI est exonéré de son obligation de \"best execution\" ?",
+          "options": {
+            "A": "Lorsque l'ordre porte sur un instrument financier non complexe",
+            "B": "Lorsque le PSI exécute un ordre en suivant les instructions spécifiques de son client",
+            "C": "Lorsque le client est classé dans la catégorie des clients professionnels"
+          },
+          "correct_answer": "B",
+          "explanation": ""
+        },
+        {
+          "id": 102,
+          "original_id": 46,
+          "theme": "Environnement réglementaire",
+          "question": "En matière d'exécution des ordres, les prestataires de services d'investissement autres que les sociétés de gestion de portefeuille doivent-ils suivre les instructions spécifiques de leurs clients lorsqu'ils en donnent ?",
+          "options": {
+            "A": "Oui, l'ordre doit être exécuté en suivant ces instructions",
+            "B": "Oui, seulement si ces instructions permettent d'obtenir, selon l'avis du prestataire, le meilleur résultat possible pour leurs clients",
+            "C": "Non, les clients ne peuvent pas donner d'instructions spécifiques au prestataire en cette matière"
+          },
+          "correct_answer": "A",
+          "explanation": ""
+        },
+        {
+          "id": 103,
+          "original_id": 47,
+          "theme": "Environnement réglementaire",
+          "question": "Dans le cadre de la commission de gestion des FIA, la société de gestion de portefeuille peut avoir une rémunération liée à la surperformance :",
+          "options": {
+            "A": "Après accord avec le client même si elle ne figure pas dans le DIC",
+            "B": "À condition qu'elle soit expressément prévue dans le DIC",
+            "C": "Après autorisation de la Banque de France même si elle ne figure pas dans le DIC"
+          },
+          "correct_answer": "B",
+          "explanation": ""
+        },
+        {
+          "id": 104,
+          "original_id": 48,
+          "theme": "Environnement réglementaire",
+          "question": "Que peut comprendre la rémunération de la gestion de portefeuille sous mandat ?",
+          "options": {
+            "A": "La commission perçue par un tiers (par exemple de l'émetteur)",
+            "B": "La rétrocession de frais d'intermédiation",
+            "C": "La commission de gestion et la commission de surperformance"
+          },
+          "correct_answer": "C",
+          "explanation": ""
+        },
+        {
+          "id": 105,
+          "original_id": 56,
+          "theme": "Environnement réglementaire",
+          "question": "La communication promotionnelle par voie électronique sur certains contrats hautement spéculatifs est prohibée si elle est susceptible d'atteindre des clients potentiels :",
+          "options": {
+            "A": "Investisseurs institutionnels",
+            "B": "Non professionnels",
+            "C": "Professionnels"
+          },
+          "correct_answer": "B",
+          "explanation": ""
+        },
+        {
+          "id": 106,
+          "original_id": 1,
+          "theme": "Environnement réglementaire",
+          "question": "La supervision du secteur bancaire et assurantiel en France est assurée entre autres par :",
+          "options": {
+            "A": "Le CECEI (Comité des Établissements de Crédit et des Entreprises d'Investissement)",
+            "B": "L'Autorité de Contrôle Prudentiel et de Résolution",
+            "C": "Le Comité Consultatif du Secteur Financier"
+          },
+          "correct_answer": "B",
+          "explanation": ""
+        },
+        {
+          "id": 107,
+          "original_id": 2,
+          "theme": "Environnement réglementaire",
+          "question": "Quelle autorité assure les contrôles et enquêtes relatives à la régularité des opérations effectuées sur des instruments financiers ?",
+          "options": {
+            "A": "L'AMF",
+            "B": "L'ACPR",
+            "C": "Le CCLRF"
+          },
+          "correct_answer": "A",
+          "explanation": ""
+        },
+        {
+          "id": 108,
+          "original_id": 3,
+          "theme": "Environnement réglementaire",
+          "question": "L'ESMA (European Securities and Markets Authority) a parmi ses missions de :",
+          "options": {
+            "A": "Conseiller la BCE sur la politique monétaire à mener",
+            "B": "Définir la politique monétaire de la zone \"euro\"",
+            "C": "Veiller à la stabilité financière de l'Union Européenne"
+          },
+          "correct_answer": "C",
+          "explanation": ""
+        },
+        {
+          "id": 109,
+          "original_id": 4,
+          "theme": "Environnement réglementaire",
+          "question": "Comment fonctionne le Système Européen de Surveillance Financière (SESF) ?",
+          "options": {
+            "A": "Ce dispositif est organisé en réseau autour des trois Autorités Européennes de Surveillance (AES), des autorités nationales de surveillance et du Conseil Européen du Risque Systémique (CERS)",
+            "B": "Ce dispositif est organisé en réseau autour de l'Union Bancaire Européenne (UBE) et du Comité Européen des Valeurs Mobilières (CEVM)",
+            "C": "Il s'agit d'un dispositif qui repose sur la création d'un corps européen d'inspection des banques"
+          },
+          "correct_answer": "A",
+          "explanation": ""
+        },
+        {
+          "id": 110,
+          "original_id": 5,
+          "theme": "Environnement réglementaire",
+          "question": "Le Conseil de Stabilité Financière (Financial Stability Board) a pour mission :",
+          "options": {
+            "A": "D'identifier les vulnérabilités du système financier européen et de sanctionner les acteurs du système financier",
+            "B": "D'identifier les vulnérabilités du système financier mondial et de proposer des mesures pour y remédier",
+            "C": "De surveiller les places financières mondiales sous le contrôle du Fonds Monétaire International"
+          },
+          "correct_answer": "B",
+          "explanation": ""
+        },
+        {
+          "id": 111,
+          "original_id": 6,
+          "theme": "Environnement réglementaire",
+          "question": "Quelle est l'une des conditions d'accès à la profession de Conseiller en Investissements Financiers ?",
+          "options": {
+            "A": "Un agrément de l'AMF",
+            "B": "Une formation professionnelle adaptée",
+            "C": "Aucune condition"
+          },
+          "correct_answer": "B",
+          "explanation": ""
+        },
+        {
+          "id": 112,
+          "original_id": 7,
+          "theme": "Environnement réglementaire",
+          "question": "Qui effectue le premier niveau de contrôle des conseillers en investissements financiers ?",
+          "options": {
+            "A": "L'ORIAS",
+            "B": "L'AMF",
+            "C": "L'association professionnelle dont ils relèvent"
+          },
+          "correct_answer": "A",
+          "explanation": ""
+        },
+        {
+          "id": 113,
+          "original_id": 8,
+          "theme": "Environnement réglementaire",
+          "question": "Le CIF doit :",
+          "options": {
+            "A": "Adhérer à une seule association professionnelle agréée par l'AMF",
+            "B": "Adhérer à plusieurs associations professionnelles agréées par l'AMF",
+            "C": "Adhérer à une association professionnelle agréée par l'ACPR"
+          },
+          "correct_answer": "A",
+          "explanation": ""
+        },
+        {
+          "id": 114,
+          "original_id": 9,
+          "theme": "Environnement réglementaire",
+          "question": "Pour apprécier le niveau de l'inflation, nous utilisons essentiellement :",
+          "options": {
+            "A": "L'indice des prix à la production",
+            "B": "L'indice des prix à la consommation",
+            "C": "L'indice des prix des actifs financiers"
+          },
+          "correct_answer": "B",
+          "explanation": ""
+        },
+        {
+          "id": 115,
+          "original_id": 10,
+          "theme": "Environnement réglementaire",
+          "question": "À quoi est liée la fluctuation des marchés financiers ?",
+          "options": {
+            "A": "À l'achat par le FMI des titres des entreprises cotées",
+            "B": "À un ensemble de paramètres, comme les résultats financiers des entreprises cotées, au niveau de croissance du pays, au taux de chômage ou encore au niveau des taux d'intérêt",
+            "C": "Uniquement aux résultats financiers des entreprises cotées"
+          },
+          "correct_answer": "B",
+          "explanation": ""
+        },
+        {
+          "id": 116,
+          "original_id": 11,
+          "theme": "Environnement réglementaire",
+          "question": "Un marché volatil est un marché :",
+          "options": {
+            "A": "Sur lequel les cours peuvent varier fortement en peu de temps",
+            "B": "Sur lequel il est facile d'acheter ou de vendre des titres",
+            "C": "Sur lequel les cours sont peu sensibles aux variations des volumes d'ordres d'achat et de vente"
+          },
+          "correct_answer": "A",
+          "explanation": ""
+        },
+        {
+          "id": 117,
+          "original_id": 12,
+          "theme": "Environnement réglementaire",
+          "question": "Les marchés émergents sont caractérisés par une :",
+          "options": {
+            "A": "Faible volatilité",
+            "B": "Forte efficience",
+            "C": "Faible liquidité"
+          },
+          "correct_answer": "C",
+          "explanation": ""
+        },
+        {
+          "id": 118,
+          "original_id": 13,
+          "theme": "Environnement réglementaire",
+          "question": "Dans quel cas les sociétés de gestion ont-elles besoin d'être agréées par l'AMF ?",
+          "options": {
+            "A": "Quand elles proposent des services d'épargne forestière",
+            "B": "Quand elles offrent des services de titrisation",
+            "C": "Quand leur objet social unique est la gestion de produits collectifs"
+          },
+          "correct_answer": "C",
+          "explanation": ""
+        },
+        {
+          "id": 119,
+          "original_id": 14,
+          "theme": "Environnement réglementaire",
+          "question": "Parmi les services suivants, lequel est défini comme un service d'investissement ?",
+          "options": {
+            "A": "L'exploitation d'un système multilatéral de négociation",
+            "B": "Les deux",
+            "C": "La diffusion de moyens de paiement"
+          },
+          "correct_answer": "A",
+          "explanation": ""
+        },
+        {
+          "id": 120,
+          "original_id": 15,
+          "theme": "Environnement réglementaire",
+          "question": "Comment s'appelle le responsable de la conformité au sein d'une société de gestion de portefeuille ?",
+          "options": {
+            "A": "Le RCCI : Responsable de la conformité et du contrôle interne",
+            "B": "Le RCCI : Responsable de la coordination des contrôleurs internes",
+            "C": "Le RCCI : Responsable du contenu collectif des investissements"
+          },
+          "correct_answer": "A",
+          "explanation": ""
+        },
+        {
+          "id": 121,
+          "original_id": 16,
+          "theme": "Environnement réglementaire",
+          "question": "Au sein des Prestataires de Services d'Investissement (PSI) la mise en place d'une fonction conformité est :",
+          "options": {
+            "A": "Obligatoire dans tous les cas",
+            "B": "Obligatoirement externalisée à un autre PSI ne faisant pas partie du même groupe pour éviter tous conflits d'intérêts",
+            "C": "Optionnelle si le PSI réalise des prestations exclusivement pour des clients professionnels"
+          },
+          "correct_answer": "A",
+          "explanation": ""
+        },
+        {
+          "id": 122,
+          "original_id": 17,
+          "theme": "Environnement réglementaire",
+          "question": "Les procédures dites \"muraille de Chine\" doivent permettre :",
+          "options": {
+            "A": "D'assurer la liquidité des marchés financiers",
+            "B": "De prévenir la circulation indue d'informations privilégiées",
+            "C": "De promouvoir la circulation de l'information financière au niveau international"
+          },
+          "correct_answer": "B",
+          "explanation": ""
+        },
+        {
+          "id": 123,
+          "original_id": 18,
+          "theme": "Environnement réglementaire",
+          "question": "En matière de conformité, la \"muraille de Chine\" est synonyme de :",
+          "options": {
+            "A": "Devoir de non-ingérence",
+            "B": "La séparation des activités susceptibles de générer des conflits d'intérêts",
+            "C": "L'indépendance du responsable de la conformité avec les services en front-office"
+          },
+          "correct_answer": "B",
+          "explanation": ""
+        },
+        {
+          "id": 124,
+          "original_id": 19,
+          "theme": "Environnement réglementaire",
+          "question": "Les prestataires de services d'investissement (PSI) sont-ils soumis à des obligations réglementaires concernant le traitement des réclamations des clients ?",
+          "options": {
+            "A": "Il est obligatoire pour les prestataires de services d'investissement (PSI) de mettre en place une procédure de traitement des réclamations des clients",
+            "B": "Le traitement des réclamations des clients relève de la seule appréciation du prestataire de services d'investissement (PSI)",
+            "C": "Le règlement de l'AMF oblige uniquement le prestataire à encadrer l'information à donner au client sur le système de traitement des réclamations ainsi que les procédures à mettre en œuvre pour un traitement efficace, égal et harmonisé"
+          },
+          "correct_answer": "A",
+          "explanation": ""
+        },
+        {
+          "id": 125,
+          "original_id": 20,
+          "theme": "Environnement réglementaire",
+          "question": "La décision du médiateur en cas de litige entre un client et sa banque :",
+          "options": {
+            "A": "Met fin au litige",
+            "B": "Est imposée aux parties",
+            "C": "Peut être acceptée ou non par les parties"
+          },
+          "correct_answer": "C",
+          "explanation": ""
+        },
+        {
+          "id": 126,
+          "original_id": 1,
+          "theme": "Environnement réglementaire",
+          "question": "La supervision du secteur bancaire et assurantiel en France est assurée entre autres par :",
+          "options": {
+            "A": "Le CECEI (Comité des Établissements de Crédit et des Entreprises d'Investissement)",
+            "B": "Le Comité Consultatif du Secteur Financier",
+            "C": "L'Autorité de Contrôle Prudentiel et de Résolution"
+          },
+          "correct_answer": "C",
+          "explanation": ""
+        },
+        {
+          "id": 127,
+          "original_id": 2,
+          "theme": "Environnement réglementaire",
+          "question": "Le HCSF (Haut Conseil de stabilité financière) a pour mission principale de veiller à :",
+          "options": {
+            "A": "La surveillance du système financier dans son ensemble",
+            "B": "La stabilité des règles utilisées par les banques dans leurs états financiers",
+            "C": "La stabilité des marchés financiers"
+          },
+          "correct_answer": "A",
+          "explanation": ""
+        },
+        {
+          "id": 128,
+          "original_id": 4,
+          "theme": "Environnement réglementaire",
+          "question": "Quelle institution vote les nouvelles lois européennes ?",
+          "options": {
+            "A": "Le Parlement européen",
+            "B": "La Commission européenne",
+            "C": "La Cour de justice de l'Union européenne"
+          },
+          "correct_answer": "A",
+          "explanation": ""
+        },
+        {
+          "id": 129,
+          "original_id": 5,
+          "theme": "Environnement réglementaire",
+          "question": "Quelle est la mission essentielle du Fonds Monétaire International ?",
+          "options": {
+            "A": "Faciliter les travaux d'analyse des investisseurs internationaux",
+            "B": "Veiller à la stabilité financière et faciliter le commerce international",
+            "C": "Assurer la coordination entre régulateurs nationaux et internationaux dans les domaines de la banque et de l'assurance"
+          },
+          "correct_answer": "B",
+          "explanation": ""
+        },
+        {
+          "id": 130,
+          "original_id": 6,
+          "theme": "Environnement réglementaire",
+          "question": "Un Conseiller en Investissement Financier (CIF) :",
+          "options": {
+            "A": "Peut exercer librement en France à la seule condition qu'il commercialise des produits financiers standards",
+            "B": "Doit remplir des conditions d'âge et d'honorabilité fixées par décret",
+            "C": "Doit obligatoirement être titulaire d'un diplôme de Niveau I (Master, diplôme d'études approfondies, diplôme d'études supérieures spécialisées, diplôme d'ingénieur)"
+          },
+          "correct_answer": "B",
+          "explanation": ""
+        },
+        {
+          "id": 131,
+          "original_id": 7,
+          "theme": "Environnement réglementaire",
+          "question": "Quelle est l'activité principale des CIF (Conseillers en Investissements Financiers) ?",
+          "options": {
+            "A": "Conseiller leurs clients sur la réalisation d'investissements financiers et d'opérations en biens divers",
+            "B": "Mettre au point de nouveaux produits d'investissements financiers et de nouvelles offres sur biens divers",
+            "C": "Déposer les fonds qu'ils ont reçu de leurs clients sur un compte ouvert auprès de la CDC (Caisse des Dépôts et Consignations)"
+          },
+          "correct_answer": "A",
+          "explanation": ""
+        },
+        {
+          "id": 132,
+          "original_id": 8,
+          "theme": "Environnement réglementaire",
+          "question": "Pour exercer leur activité, les sociétés de gestion de portefeuille doivent obtenir l'agrément :",
+          "options": {
+            "A": "De l'AMF et de l'ACPR",
+            "B": "De l'AMF (Autorité des Marchés Financiers) et de la BCE (Banque Centrale Européenne)",
+            "C": "De l'AMF uniquement"
+          },
+          "correct_answer": "C",
+          "explanation": ""
+        },
+        {
+          "id": 133,
+          "original_id": 9,
+          "theme": "Environnement réglementaire",
+          "question": "La BCE (Banque Centrale Européenne) conduit une politique monétaire commune pour :",
+          "options": {
+            "A": "Les pays de la zone euro",
+            "B": "Uniquement les 11 pays fondateurs de l'euro",
+            "C": "L'UE (Union Européenne)"
+          },
+          "correct_answer": "A",
+          "explanation": ""
+        },
+        {
+          "id": 134,
+          "original_id": 10,
+          "theme": "Environnement réglementaire",
+          "question": "Un niveau élevé d'inflation et une croissance faible est une :",
+          "options": {
+            "A": "Désinflation",
+            "B": "Déflation",
+            "C": "Stagflation"
+          },
+          "correct_answer": "C",
+          "explanation": ""
+        },
+        {
+          "id": 135,
+          "original_id": 11,
+          "theme": "Environnement réglementaire",
+          "question": "Qu'est-ce que €STR (Euro Short-Term Rate) ?",
+          "options": {
+            "A": "Il s'agit d'un taux à court terme en euros. Il reflète combien un particulier doit payer quand il emprunte de l'argent à une banque",
+            "B": "Il s'agit d'un taux à court terme en euros ayant vocation à remplacer EONIA. Il reflète combien une banque doit payer quand elle emprunte de l'argent au jour le jour sans fournir de garanties (emprunts non garantis ou \"en blanc\")",
+            "C": "Il s'agit d'un nouvel indice de référence destiné à remplacer le PIB (Produit Intérieur Brut) dans l'Union Européenne"
+          },
+          "correct_answer": "B",
+          "explanation": ""
+        },
+        {
+          "id": 136,
+          "original_id": 12,
+          "theme": "Environnement réglementaire",
+          "question": "D'un point de vue systémique, les établissements financiers peuvent être importants pour les économies et les systèmes financiers :",
+          "options": {
+            "A": "Internationaux et nationaux uniquement",
+            "B": "Internationaux, nationaux et locaux",
+            "C": "Internationaux uniquement"
+          },
+          "correct_answer": "B",
+          "explanation": ""
+        },
+        {
+          "id": 137,
+          "original_id": 13,
+          "theme": "Environnement réglementaire",
+          "question": "Un établissement dûment agréé :",
+          "options": {
+            "A": "Ne peut avoir que le statut d'établissement de crédit",
+            "B": "Peut avoir le statut d'établissement de crédit et de prestataire de services d'investissements",
+            "C": "Ne peut avoir que le statut de prestataire de services d'investissements"
+          },
+          "correct_answer": "B",
+          "explanation": ""
+        },
+        {
+          "id": 138,
+          "original_id": 14,
+          "theme": "Environnement réglementaire",
+          "question": "Le statut de prestataire de services de financement participatif est issu d'une règlementation :",
+          "options": {
+            "A": "Internationale",
+            "B": "Française",
+            "C": "Européenne"
+          },
+          "correct_answer": "C",
+          "explanation": ""
+        },
+        {
+          "id": 139,
+          "original_id": 15,
+          "theme": "Environnement réglementaire",
+          "question": "Le Responsable Conformité est-il titulaire d'une carte professionnelle ?",
+          "options": {
+            "A": "Oui, il est titulaire d'une carte professionnelle délivrée par l'association professionnelle à laquelle adhère le PSI",
+            "B": "Oui, il est titulaire d'une carte professionnelle délivrée par le PSI",
+            "C": "Oui, il est titulaire d'une carte professionnelle délivrée par l'AMF"
+          },
+          "correct_answer": "C",
+          "explanation": ""
+        },
+        {
+          "id": 140,
+          "original_id": 16,
+          "theme": "Environnement réglementaire",
+          "question": "Quel est le champ d'intervention de la conformité pour un PSI ?",
+          "options": {
+            "A": "Les opérations des salles de marché",
+            "B": "La supervision de certaines opérations comptables",
+            "C": "Tous les secteurs d'activité du PSI"
+          },
+          "correct_answer": "C",
+          "explanation": ""
+        },
+        {
+          "id": 141,
+          "original_id": 18,
+          "theme": "Environnement réglementaire",
+          "question": "Quelles sont les sanctions applicables en cas de non-respect des recommandations ESMA d'investissement sur les réseaux sociaux ?",
+          "options": {
+            "A": "Il n'y a pas de sanctions",
+            "B": "Des sanctions pécuniaires et/ou des procédures judiciaires",
+            "C": "Uniquement des sanctions administratives"
+          },
+          "correct_answer": "B",
+          "explanation": ""
+        },
+        {
+          "id": 142,
+          "original_id": 19,
+          "theme": "Environnement réglementaire",
+          "question": "Les prestataires de services d'investissement (PSI) sont-ils soumis à des obligations réglementaires concernant le traitement des réclamations des clients ?",
+          "options": {
+            "A": "Il est obligatoire pour les prestataires de services d'investissement (PSI) de mettre en place une procédure de traitement des réclamations des clients",
+            "B": "Le règlement de l'AMF oblige uniquement le prestataire à encadrer l'information à donner au client sur le système de traitement des réclamations ainsi que les procédures à mettre en œuvre pour un traitement efficace, égal et harmonisé",
+            "C": "Le traitement des réclamations des clients relève de la seule appréciation du prestataire de services d'investissement (PSI)"
+          },
+          "correct_answer": "A",
+          "explanation": ""
+        },
+        {
+          "id": 143,
+          "original_id": 20,
+          "theme": "Environnement réglementaire",
+          "question": "À quels clients les PSI doivent-ils appliquer des mesures de vigilance complémentaires ?",
+          "options": {
+            "A": "Aux sociétés cotées sur un marché réglementé situées dans l'Union Européenne",
+            "B": "Aux clients \"Personnes Politiquement Exposées (PPE)\"",
+            "C": "À tous les clients non-résidents"
+          },
+          "correct_answer": "B",
+          "explanation": ""
+        },
+        {
+          "id": 144,
+          "original_id": 21,
+          "theme": "Environnement réglementaire",
+          "question": "Dans le cas où le client est une personne morale, la procédure d'identification, dans le cadre de la réglementation contre le blanchiment des capitaux, implique que le professionnel assujetti :",
+          "options": {
+            "A": "Étende la procédure d'identification aux personnes physiques qui contrôlent le client, personne morale",
+            "B": "Applique des mesures d'examen renforcé",
+            "C": "Réalise une vérification de l'authenticité des documents présentés par le client auprès des autorités qui les ont émis"
+          },
+          "correct_answer": "A",
+          "explanation": ""
+        },
+        {
+          "id": 145,
+          "original_id": 22,
+          "theme": "Environnement réglementaire",
+          "question": "La réglementation encadrant l'échange automatique de renseignements relatifs aux comptes financiers prévoit que les administrations fiscales collectent auprès des institutions financières un large éventail d'informations concernant les comptes de leurs clients et les transmettent automatiquement :",
+          "options": {
+            "A": "Aux autorités fiscales de leur État de résidence",
+            "B": "À l'autorité en charge de la lutte contre le blanchiment de capitaux de leur État de résidence",
+            "C": "Au superviseur bancaire de leur État de résidence"
+          },
+          "correct_answer": "A",
+          "explanation": ""
+        },
+        {
+          "id": 146,
+          "original_id": 23,
+          "theme": "Environnement réglementaire",
+          "question": "Le market timing est l'opération qui consiste à :",
+          "options": {
+            "A": "Fermer le marché à la clôture",
+            "B": "Transmettre un ordre après l'heure limite inscrite sur le prospectus",
+            "C": "Tirer profit d'un décalage entre la valeur comptable et la valeur de marché d'un fonds"
+          },
+          "correct_answer": "C",
+          "explanation": ""
+        },
+        {
+          "id": 147,
+          "original_id": 24,
+          "theme": "Environnement réglementaire",
+          "question": "Quel agissement parmi les suivants est susceptible d'être sanctionné dans le cadre des sanctions qui s'appliquent pour les abus de marchés ?",
+          "options": {
+            "A": "Une tentative échouée d'abus de marché",
+            "B": "L'utilisation de transactions de gré à gré à des fins de blanchiment",
+            "C": "Faire paraître un avis personnel sur l'opportunité d'acheter ou de vendre une valeur publiée sur un blog d'investisseurs"
+          },
+          "correct_answer": "A",
+          "explanation": ""
+        },
+        {
+          "id": 148,
+          "original_id": 25,
+          "theme": "Environnement réglementaire",
+          "question": "Quels sont les produits pour lesquels le démarchage est interdit ?",
+          "options": {
+            "A": "Les obligations convertibles en action",
+            "B": "Les actions des pays émergents",
+            "C": "Les produits dont le risque maximum n'est pas connu au moment de la souscription"
+          },
+          "correct_answer": "C",
+          "explanation": ""
+        },
+        {
+          "id": 149,
+          "original_id": 26,
+          "theme": "Environnement réglementaire",
+          "question": "En cas de démarchage et dans le cadre d'un service de réception-transmission d'ordres (RTO), le délai de réflexion est de :",
+          "options": {
+            "A": "24 heures",
+            "B": "48 heures",
+            "C": "7 jours"
+          },
+          "correct_answer": "B",
+          "explanation": ""
+        },
+        {
+          "id": 150,
+          "original_id": 27,
+          "theme": "Environnement réglementaire",
+          "question": "Le fait de se rendre physiquement au domicile des personnes constitue un acte de démarchage :",
+          "options": {
+            "A": "Uniquement si c'est à la demande du client",
+            "B": "Uniquement si c'est à l'initiative du démarcheur",
+            "C": "Quelle que soit la personne à l'initiative de la démarche"
+          },
+          "correct_answer": "C",
+          "explanation": ""
+        },
+        {
+          "id": 151,
+          "original_id": 28,
+          "theme": "Environnement réglementaire",
+          "question": "Lorsque qu'un producteur d'instruments financiers définit le marché cible vers lequel les produits financiers doivent être orientés, il définit également :",
+          "options": {
+            "A": "Un Marché anti-cible correspondant aux personnes qui ont l'interdiction de souscrire ces produits pour des raisons de réglementation sur les abus de marché",
+            "B": "Un Marché cible négatif identifiant les clients vers lesquels il ne faut pas proposer ces produits",
+            "C": "Un Marché super-cible identifiant les clients qui doivent souscrire à ces produits"
+          },
+          "correct_answer": "B",
+          "explanation": ""
+        },
+        {
+          "id": 152,
+          "original_id": 29,
+          "theme": "Environnement réglementaire",
+          "question": "Le document d'informations clés (DIC) d'un produit d'investissement (ex : parts d'OPCVM) proposé à un client non professionnel :",
+          "options": {
+            "A": "Ne mentionne que les droits d'entrée et les droits de sortie, les frais courants étant difficiles à estimer",
+            "B": "Comporte des informations sur l'incidence des coûts totaux sur le rendement du produit, ceci pour différentes périodes de détention",
+            "C": "Ne traite pas des coûts, ceux-ci figurant dans les dispositions tarifaires du commercialisateur diffusés sur internet"
+          },
+          "correct_answer": "B",
+          "explanation": ""
+        },
+        {
+          "id": 153,
+          "original_id": 30,
+          "theme": "Environnement réglementaire",
+          "question": "Les clients non-professionnels bénéficient :",
+          "options": {
+            "A": "Du même niveau de protection que tous les autres investisseurs",
+            "B": "Du plus haut degré de protection en tant qu'investisseur",
+            "C": "Du plus bas degré de protection en tant qu'investisseur"
+          },
+          "correct_answer": "B",
+          "explanation": ""
+        },
+        {
+          "id": 154,
+          "original_id": 31,
+          "theme": "Environnement réglementaire",
+          "question": "À propos des diligences à effectuer par les PSI dans le cadre de la connaissance du client, quelle proposition est exacte ?",
+          "options": {
+            "A": "Les PSI peuvent confier, sous certaines conditions, à des tiers le soin d'effectuer ces diligences",
+            "B": "Les responsables Conformité des PSI sont chargés de rechercher les informations manquantes",
+            "C": "Seuls les collaborateurs des PSI en charge de la relation avec la clientèle sont habilités à effectuer ces diligences"
+          },
+          "correct_answer": "A",
+          "explanation": ""
+        },
+        {
+          "id": 155,
+          "original_id": 32,
+          "theme": "Environnement réglementaire",
+          "question": "Pour être éligible au statut de client professionnel, une entreprise doit :",
+          "options": {
+            "A": "Respecter deux critères comptables sur les trois définis par la réglementation",
+            "B": "Respecter uniquement des critères propres à son PSI",
+            "C": "Avoir son siège social en France"
+          },
+          "correct_answer": "A",
+          "explanation": ""
+        },
+        {
+          "id": 156,
+          "original_id": 33,
+          "theme": "Environnement réglementaire",
+          "question": "Pour répondre à l'obligation de s'assurer de l'identité d'un client personne morale, il suffit que celui-ci présente au Prestataire de Services d'Investissement (PSI) :",
+          "options": {
+            "A": "Un extrait de registre officiel de moins de trois mois indiquant la dénomination, la forme juridique, l'adresse du siège social et l'identité des associés et dirigeants sociaux de la personne morale",
+            "B": "Un document officiel comportant la photographie d'un des dirigeants ou d'un associé majoritaire de la personne morale",
+            "C": "Les statuts de la personne morale"
+          },
+          "correct_answer": "A",
+          "explanation": ""
+        },
+        {
+          "id": 157,
+          "original_id": 34,
+          "theme": "Environnement réglementaire",
+          "question": "La catégorie des clients non professionnels :",
+          "options": {
+            "A": "Existe et est définie dans le Règlement général de l'AMF",
+            "B": "Est une des quatre catégories de clients existantes",
+            "C": "Existe et est définie dans le Code monétaire et financier"
+          },
+          "correct_answer": "C",
+          "explanation": ""
+        },
+        {
+          "id": 158,
+          "original_id": 35,
+          "theme": "Environnement réglementaire",
+          "question": "En cas de non-respect de la loi Informatique et Liberté, la CNIL :",
+          "options": {
+            "A": "Peut infliger une sanction financière dès le premier manquement",
+            "B": "Peut infliger une sanction financière seulement en cas de récidive",
+            "C": "N'a aucun pouvoir pour infliger des sanctions financières"
+          },
+          "correct_answer": "A",
+          "explanation": ""
+        },
+        {
+          "id": 159,
+          "original_id": 36,
+          "theme": "Environnement réglementaire",
+          "question": "Laquelle de ces institutions est habilitée à lever le secret bancaire ?",
+          "options": {
+            "A": "L'administration des douanes",
+            "B": "La Compagnie nationale des commissaires aux comptes",
+            "C": "La Fédération bancaire française"
+          },
+          "correct_answer": "A",
+          "explanation": ""
+        },
+        {
+          "id": 160,
+          "original_id": 37,
+          "theme": "Environnement réglementaire",
+          "question": "Le PSI (Prestataire de Services d'Investissement) doit-il fournir la même description générale de la nature et des risques des instruments financiers qu'il propose ?",
+          "options": {
+            "A": "Non, seulement aux clients qui en font la demande",
+            "B": "Non, à certains clients, selon leur classification",
+            "C": "Oui, à tous ses clients"
+          },
+          "correct_answer": "C",
+          "explanation": ""
+        },
+        {
+          "id": 161,
+          "original_id": 38,
+          "theme": "Environnement réglementaire",
+          "question": "Les conseillers en investissement agissant de manière indépendante :",
+          "options": {
+            "A": "Ne peuvent diffuser que des produits financiers conçus par eux-mêmes",
+            "B": "Doivent disposer d'un éventail limité d'instruments financiers pour éviter de se disperser",
+            "C": "Doivent disposer d'un éventail diversifié d'instruments financiers"
+          },
+          "correct_answer": "C",
+          "explanation": ""
+        },
+        {
+          "id": 162,
+          "original_id": 39,
+          "theme": "Environnement réglementaire",
+          "question": "Le porteur de parts ou actionnaire d'un OPCVM doit-il être informé lorsqu'une rémunération, une commission ou un avantage non monétaire est versé par un tiers à une société de gestion de portefeuille en liaison avec la gestion d'un OPCVM ?",
+          "options": {
+            "A": "Oui, il doit être informé de son existence uniquement",
+            "B": "Oui, il doit être informé de son existence et de sa nature uniquement",
+            "C": "Oui, il doit être informé de son existence, sa nature et de son montant"
+          },
+          "correct_answer": "C",
+          "explanation": ""
+        },
+        {
+          "id": 163,
+          "original_id": 41,
+          "theme": "Environnement réglementaire",
+          "question": "Dans quel cas le PSI qui fournit un service d'exécution ou de réception-transmission d'ordres est exempté de procéder au test de caractère approprié ?",
+          "options": {
+            "A": "Le client l'a exonéré expressément de cette obligation dans la convention de services",
+            "B": "Le service n'est pas fourni à l'initiative du client",
+            "C": "Le service est à l'initiative du client et porte sur des instruments financiers non complexes"
+          },
+          "correct_answer": "C",
+          "explanation": ""
+        },
+        {
+          "id": 164,
+          "original_id": 42,
+          "theme": "Environnement réglementaire",
+          "question": "Dans quel cas le PSI n'est-il pas tenu d'évaluer si l'instrument financier ou le service est adapté au client ?",
+          "options": {
+            "A": "Lors de la fourniture du service d'exécution simple des ordres",
+            "B": "Lors de la fourniture d'un instrument financier ou d'un service à une personne morale",
+            "C": "Lors de la fourniture d'un instrument financier ou d'un service par téléphone"
+          },
+          "correct_answer": "A",
+          "explanation": ""
+        },
+        {
+          "id": 165,
+          "original_id": 43,
+          "theme": "Environnement réglementaire",
+          "question": "Comment une recommandation personnalisée doit-elle être présentée au client ?",
+          "options": {
+            "A": "Elle doit lui être présentée par lettre recommandée avec accusé de réception ; le client ne peut pas accepter la recommandation avant l'expiration d'un délai de 48 heures à compter de la réception de la lettre",
+            "B": "Elle doit lui être présentée comme étant adaptée à sa situation, ou fondée sur l'examen de sa situation propre",
+            "C": "Elle doit lui être présentée par un collaborateur ayant au minimum trois ans d'expérience dans la profession ou par un mandataire social de la société prestataire de services d'investissement"
+          },
+          "correct_answer": "B",
+          "explanation": ""
+        },
+        {
+          "id": 166,
+          "original_id": 44,
+          "theme": "Environnement réglementaire",
+          "question": "Que doit faire le PSI fournissant le service de réception et de transmission d'ordres lorsqu'il transmet des ordres de clients à d'autres entités pour exécution ?",
+          "options": {
+            "A": "Il est tenu d'appliquer sa politique d'exécution des ordres (obligation de \"best execution\")",
+            "B": "Il est tenu d'appliquer sa politique de sélection des intermédiaires (obligation de \"best selection\")",
+            "C": "Il est tenu d'appliquer sa politique de réception des ordres (obligation de \"best registration\")"
+          },
+          "correct_answer": "B",
+          "explanation": ""
+        },
+        {
+          "id": 167,
+          "original_id": 45,
+          "theme": "Environnement réglementaire",
+          "question": "Dans le cadre de la politique de meilleure exécution, lorsqu'un Prestataire de Services d'Investissement (PSI) exécute des ordres pour le compte de clients non professionnels, le meilleur résultat possible doit être déterminé :",
+          "options": {
+            "A": "Sur la base de la rapidité de l'exécution de l'ordre dans les marchés",
+            "B": "Sur la base du coût total c'est-à-dire le prix de l'instrument financier augmenté des coûts liés à l'exécution",
+            "C": "Sur la base des facteurs propres à la politique d'exécution du PSI et qui a été préalablement communiquée au client"
+          },
+          "correct_answer": "B",
+          "explanation": ""
+        },
+        {
+          "id": 168,
+          "original_id": 46,
+          "theme": "Environnement réglementaire",
+          "question": "Dans le cadre d'un service d'exécution d'ordres pour le compte d'un client non professionnel, si le Prestataire de Services d'Investissement (PSI) souhaite réaliser des transactions en dehors des marchés organisés, le PSI doit :",
+          "options": {
+            "A": "Informer a posteriori que des transactions ont eu lieu en dehors de marchés organisés",
+            "B": "Obtenir un consentement exprès du client auparavant",
+            "C": "Demander au client de passer client professionnel avant de pouvoir réaliser ce type d'exécution"
+          },
+          "correct_answer": "B",
+          "explanation": ""
+        },
+        {
+          "id": 169,
+          "original_id": 49,
+          "theme": "Environnement réglementaire",
+          "question": "Dans quel document les modalités de dénonciation d'un mandat de gestion doivent-elles figurer ?",
+          "options": {
+            "A": "Dans le rapport d'opération transmis au client",
+            "B": "Dans le rapport de gestion annuel communiqué au client",
+            "C": "Dans le mandat de gestion signé par les clients"
+          },
+          "correct_answer": "C",
+          "explanation": ""
+        },
+        {
+          "id": 170,
+          "original_id": 51,
+          "theme": "Environnement réglementaire",
+          "question": "Le FGDR (Fonds de Garantie des Dépôts et de Résolution) s'applique :",
+          "options": {
+            "A": "Aux dépôts titres uniquement",
+            "B": "Aux dépôts espèces et aux dépôts titres",
+            "C": "Aux dépôts espèces, aux dépôts titres et aux coffres forts"
+          },
+          "correct_answer": "B",
+          "explanation": ""
+        },
+        {
+          "id": 171,
+          "original_id": 52,
+          "theme": "Environnement réglementaire",
+          "question": "En France, la gestion de l'ensemble des mécanismes de protection des dépôts, titres ou cautions est à la charge :",
+          "options": {
+            "A": "De la Caisse des dépôts et Consignations (CDC)",
+            "B": "De la Banque Centrale Européenne (BCE)",
+            "C": "Du Fonds de garantie des dépôts et de résolution"
+          },
+          "correct_answer": "C",
+          "explanation": ""
+        }
+      ],
+      "total_questions": 171,
+      "type": "exam_blanc"
+    },
+    {
+      "id": 2,
+      "title": "Examen - Connaissances techniques",
+      "full_title": "Connaissances techniques",
+      "description": "161 questions - Connaissances techniques",
+      "theme": "Connaissances techniques",
+      "questions": [
+        {
+          "id": 1,
+          "original_id": 1,
+          "theme": "Connaissances techniques",
+          "question": "Lequel de ces instruments financiers n'est pas un titre financier ?",
+          "options": {
+            "A": "Un bon du trésor",
+            "B": "Un CFD",
+            "C": "Une part de FCP"
+          },
+          "correct_answer": "B",
+          "explanation": ""
+        },
+        {
+          "id": 2,
+          "original_id": 2,
+          "theme": "Connaissances techniques",
+          "question": "Lequel des produits correspond à un contrat financier selon la définition du CMF ?",
+          "options": {
+            "A": "Les contrats à terme",
+            "B": "Les parts d'OPC",
+            "C": "Les contrats d'assurance vie"
+          },
+          "correct_answer": "A",
+          "explanation": ""
+        },
+        {
+          "id": 3,
+          "original_id": 3,
+          "theme": "Connaissances techniques",
+          "question": "Un exportateur français qui doit recevoir un paiement en dollars dans un mois est exposé :",
+          "options": {
+            "A": "Au risque de change",
+            "B": "Au risque opérationnel",
+            "C": "Au risque de taux"
+          },
+          "correct_answer": "A",
+          "explanation": ""
+        },
+        {
+          "id": 4,
+          "original_id": 4,
+          "theme": "Connaissances techniques",
+          "question": "La totalité des actions d'une société représente :",
+          "options": {
+            "A": "Le capital social de la société",
+            "B": "L'endettement de la société",
+            "C": "Les deux"
+          },
+          "correct_answer": "A",
+          "explanation": ""
+        },
+        {
+          "id": 5,
+          "original_id": 5,
+          "theme": "Connaissances techniques",
+          "question": "Le détenteur d'une action :",
+          "options": {
+            "A": "N'est engagé qu'à hauteur de son apport financier",
+            "B": "N'a pas le droit au boni de liquidation",
+            "C": "Doit régler les engagements contractés par l'entreprise"
+          },
+          "correct_answer": "A",
+          "explanation": ""
+        },
+        {
+          "id": 6,
+          "original_id": 6,
+          "theme": "Connaissances techniques",
+          "question": "Plus la volatilité d'un actif est élevée :",
+          "options": {
+            "A": "Plus l'investissement dans cet actif sera considéré comme sûr",
+            "B": "Plus l'investissement dans cet actif sera considéré comme risqué",
+            "C": "Plus l'espérance de gain sera faible"
+          },
+          "correct_answer": "B",
+          "explanation": ""
+        },
+        {
+          "id": 7,
+          "original_id": 7,
+          "theme": "Connaissances techniques",
+          "question": "Le coupon couru d'une obligation est calculé à partir :",
+          "options": {
+            "A": "Du taux nominal (ou facial) de l'obligation",
+            "B": "Du prix de l'obligation",
+            "C": "Du taux actuariel de l'obligation"
+          },
+          "correct_answer": "A",
+          "explanation": ""
+        },
+        {
+          "id": 8,
+          "original_id": 8,
+          "theme": "Connaissances techniques",
+          "question": "Les obligations à haut rendement (ou high yields bonds) :",
+          "options": {
+            "A": "Sont des obligations émises par des sociétés dont le risque de défaut est élevé",
+            "B": "Sont des obligations émises par des sociétés dont le risque de défaut est très faible",
+            "C": "Sont généralement des obligations zéro-coupon"
+          },
+          "correct_answer": "A",
+          "explanation": ""
+        },
+        {
+          "id": 9,
+          "original_id": 9,
+          "theme": "Connaissances techniques",
+          "question": "Sur le marché interbancaire, une banque :",
+          "options": {
+            "A": "Peut être uniquement prêteuse",
+            "B": "Peut être prêteuse et émetteuse",
+            "C": "Peut être uniquement emprunteuse"
+          },
+          "correct_answer": "B",
+          "explanation": ""
+        },
+        {
+          "id": 10,
+          "original_id": 10,
+          "theme": "Connaissances techniques",
+          "question": "Les Titres de Créances Négociables (TCN) sont :",
+          "options": {
+            "A": "Des actions",
+            "B": "Des instruments financiers",
+            "C": "Les deux"
+          },
+          "correct_answer": "B",
+          "explanation": ""
+        },
+        {
+          "id": 11,
+          "original_id": 11,
+          "theme": "Connaissances techniques",
+          "question": "La surveillance du marché des titres de créances négociables est assurée par :",
+          "options": {
+            "A": "La Banque de France",
+            "B": "L'AMF",
+            "C": "L'ACPR"
+          },
+          "correct_answer": "B",
+          "explanation": ""
+        },
+        {
+          "id": 12,
+          "original_id": 12,
+          "theme": "Connaissances techniques",
+          "question": "Pourquoi les obligations convertibles correspondent-elles à des titres hybrides ?",
+          "options": {
+            "A": "Car elles sont à la fois des actions et des obligations",
+            "B": "Car elles peuvent être converties en actions",
+            "C": "Car elles sont à la fois des obligations et des titres de créances négociables"
+          },
+          "correct_answer": "B",
+          "explanation": ""
+        },
+        {
+          "id": 13,
+          "original_id": 13,
+          "theme": "Connaissances techniques",
+          "question": "Les livrets d'épargne populaire :",
+          "options": {
+            "A": "Sont des produits de placement dont la rémunération est librement fixée par les établissements qui les proposent",
+            "B": "Sont réservés aux personnes ne dépassant pas un certain plafond de revenu",
+            "C": "Sont réservés aux personnes ne payant pas d'impôt"
+          },
+          "correct_answer": "B",
+          "explanation": ""
+        },
+        {
+          "id": 14,
+          "original_id": 14,
+          "theme": "Connaissances techniques",
+          "question": "Le livret A est un livret d'épargne dont la rémunération est :",
+          "options": {
+            "A": "Un taux librement fixé par les établissements bancaires qui le proposent mais avec un taux de rémunération \"plancher\" déterminé par le Ministre de l'Economie",
+            "B": "Dépendante des rémunérations des actions dans lesquelles le livret A est investi sans garantie de capital",
+            "C": "Un taux fixe révisable par le Ministre de l'Economie en fonction d'une formule de calcul basée sur les taux à court terme et l'inflation"
+          },
+          "correct_answer": "C",
+          "explanation": ""
+        },
+        {
+          "id": 15,
+          "original_id": 15,
+          "theme": "Connaissances techniques",
+          "question": "Qu'est-ce qu'une option ?",
+          "options": {
+            "A": "Un instrument financier permettant à l'investisseur de choisir entre deux types d'investissement jusqu'à une date limite",
+            "B": "Un instrument financier permettant à l'investisseur de se positionner pour une future émission d'obligations",
+            "C": "Un instrument financier donnant le droit d'acheter ou de vendre à une date future un actif financier à un cours fixé à l'avance"
+          },
+          "correct_answer": "C",
+          "explanation": ""
+        },
+        {
+          "id": 16,
+          "original_id": 16,
+          "theme": "Connaissances techniques",
+          "question": "La valeur liquidative des parts ou action d'un OPC :",
+          "options": {
+            "A": "Evolue en fonction des performances du portefeuille de cet OPC",
+            "B": "Est déterminée une fois par an en fonction des taux à court terme",
+            "C": "Est fixée à l'avance"
+          },
+          "correct_answer": "A",
+          "explanation": ""
+        },
+        {
+          "id": 17,
+          "original_id": 17,
+          "theme": "Connaissances techniques",
+          "question": "Lequel de ces placements est un OPC ?",
+          "options": {
+            "A": "Un livret d'épargne logement",
+            "B": "Un FCPE",
+            "C": "Un dépôt à terme"
+          },
+          "correct_answer": "B",
+          "explanation": ""
+        },
+        {
+          "id": 18,
+          "original_id": 18,
+          "theme": "Connaissances techniques",
+          "question": "Dans le cadre d'une opération en biens divers, le document promotionnel doit être déposé auprès de l'AMF qui a alors :",
+          "options": {
+            "A": "Trois mois pour formuler ses recommandations",
+            "B": "Un mois pour formuler ses recommandations",
+            "C": "Deux mois pour formuler ses recommandations"
+          },
+          "correct_answer": "C",
+          "explanation": ""
+        },
+        {
+          "id": 19,
+          "original_id": 19,
+          "theme": "Connaissances techniques",
+          "question": "Quel organisme est habilité à enregistrer les intermédiaires en biens divers ?",
+          "options": {
+            "A": "Le Trésor",
+            "B": "L'AMF",
+            "C": "L'ACPR"
+          },
+          "correct_answer": "B",
+          "explanation": ""
+        },
+        {
+          "id": 20,
+          "original_id": 20,
+          "theme": "Connaissances techniques",
+          "question": "Un crypto-actif est :",
+          "options": {
+            "A": "Un moyen de paiement",
+            "B": "Une monnaie ayant un cours légal",
+            "C": "Un actif numérique"
+          },
+          "correct_answer": "C",
+          "explanation": ""
+        },
+        {
+          "id": 21,
+          "original_id": 21,
+          "theme": "Connaissances techniques",
+          "question": "Le Bitcoin :",
+          "options": {
+            "A": "Est une monnaie virtuelle",
+            "B": "A un cours officiel",
+            "C": "Repose sur un marché régulé"
+          },
+          "correct_answer": "A",
+          "explanation": ""
+        },
+        {
+          "id": 22,
+          "original_id": 22,
+          "theme": "Connaissances techniques",
+          "question": "Quelles sont les deux missions principales du dépositaire d'OPC ?",
+          "options": {
+            "A": "Conserver les actifs et rédiger le Document d'informations clés (DIC)",
+            "B": "Conserver les actifs et s'assurer de la régularité des décisions de l'OPC ou de sa société de gestion",
+            "C": "Conserver les actifs et calculer la valeur liquidative des OPC"
+          },
+          "correct_answer": "B",
+          "explanation": ""
+        },
+        {
+          "id": 23,
+          "original_id": 23,
+          "theme": "Connaissances techniques",
+          "question": "Le mandat de gestion doit :",
+          "options": {
+            "A": "Être transmis au client avec une périodicité hebdomadaire",
+            "B": "Décrire les méthodes de valorisation des instruments financiers dans lesquels le mandataire a investi",
+            "C": "Indiquer seulement les frais fixes pour le client"
+          },
+          "correct_answer": "B",
+          "explanation": ""
+        },
+        {
+          "id": 24,
+          "original_id": 24,
+          "theme": "Connaissances techniques",
+          "question": "Concernant la gestion benchmarkée, laquelle de ces affirmations est juste ?",
+          "options": {
+            "A": "La performance de l'OPC ne repose que sur les anticipations de l'investisseur",
+            "B": "La performance de l'OPC s'analyse par rapport à l'indice de référence indiqué dans son DIC",
+            "C": "Les risques de pertes de l'OPC ne sont liés qu'aux variations de son capital"
+          },
+          "correct_answer": "B",
+          "explanation": ""
+        },
+        {
+          "id": 25,
+          "original_id": 25,
+          "theme": "Connaissances techniques",
+          "question": "Quel est l'objectif du règlement (UE) 2016/1011, dit \"règlement Benchmark\" ?",
+          "options": {
+            "A": "Interdire, au sein de l'Union européenne, l'utilisation de certains indices de référence",
+            "B": "Définir, au sein de l'Union européenne, les méthodes de calcul des indices de référence",
+            "C": "Encadrer, au sein de l'Union européenne, la fourniture et l'utilisation d'indices de référence"
+          },
+          "correct_answer": "C",
+          "explanation": ""
+        },
+        {
+          "id": 26,
+          "original_id": 26,
+          "theme": "Connaissances techniques",
+          "question": "Pour les Fonds d'Investissement Alternatifs, la présence d'un dépositaire distinct de la société de gestion découle :",
+          "options": {
+            "A": "De la directive AIFM",
+            "B": "Des directives MIF et MIF2",
+            "C": "Des directives UCITS"
+          },
+          "correct_answer": "A",
+          "explanation": ""
+        },
+        {
+          "id": 27,
+          "original_id": 27,
+          "theme": "Connaissances techniques",
+          "question": "Que prévoit la directive UCITS V (OPCVM V - 2014/91/UE) ?",
+          "options": {
+            "A": "La directive UCITS V abroge les dispositions relatives aux FIA (Fonds d'Investissement Alternatif) introduites par la directive AIFM",
+            "B": "La directive UCITS V renforce la protection des actifs, la transparence et l'information aux investisseurs",
+            "C": "La directive UCITS V institue l'obligation pour un OPCVM de désigner plusieurs dépositaires différents afin d'accroître la sécurité des investisseurs"
+          },
+          "correct_answer": "B",
+          "explanation": ""
+        },
+        {
+          "id": 28,
+          "original_id": 28,
+          "theme": "Connaissances techniques",
+          "question": "Dans une société, quels types d'investisseurs peuvent accéder aux fonds d'épargne salariale ?",
+          "options": {
+            "A": "Uniquement les salariés non cadres",
+            "B": "Uniquement les managers",
+            "C": "Tous les salariés"
+          },
+          "correct_answer": "C",
+          "explanation": ""
+        },
+        {
+          "id": 29,
+          "original_id": 29,
+          "theme": "Connaissances techniques",
+          "question": "Les Fonds Communs de Placement dans l'Innovation (FCPI) sont :",
+          "options": {
+            "A": "Des fonds d'investissement alternatifs ouverts aux investisseurs non professionnels",
+            "B": "Des OPCVM",
+            "C": "Des fonds d'investissement alternatifs réservés aux investisseurs professionnels"
+          },
+          "correct_answer": "A",
+          "explanation": ""
+        },
+        {
+          "id": 30,
+          "original_id": 30,
+          "theme": "Connaissances techniques",
+          "question": "Les fonds d'épargne salariale sont proposés aux salariés d'une entreprise bénéficiant de participation ou d'intéressement dans le cadre :",
+          "options": {
+            "A": "D'un compte à vue spécifique",
+            "B": "D'un PEE (plan d'épargne entreprise)",
+            "C": "D'un dépôt à long terme"
+          },
+          "correct_answer": "B",
+          "explanation": ""
+        },
+        {
+          "id": 31,
+          "original_id": 31,
+          "theme": "Connaissances techniques",
+          "question": "Que désigne la gestion indicielle ?",
+          "options": {
+            "A": "Une technique de gestion qui consiste à obtenir la performance la plus proche possible de celle d'un indice",
+            "B": "Une technique de gestion qui vise à obtenir une performance supérieure à un indice",
+            "C": "Une technique de gestion qui se fonde sur les indices proposés par la gestion quantitative"
+          },
+          "correct_answer": "A",
+          "explanation": ""
+        },
+        {
+          "id": 32,
+          "original_id": 32,
+          "theme": "Connaissances techniques",
+          "question": "Qu'est-ce que les critères de type ESG en matière d'investissement socialement responsable (ISR) ?",
+          "options": {
+            "A": "Il s'agit de critères extra-financiers : Environnementaux, Sociaux et de Gouvernance",
+            "B": "Il s'agit des critères liés à l'Écologie, aux Services et au Gouvernement",
+            "C": "L'acronyme ESG signifie Économie Socialement Gérée"
+          },
+          "correct_answer": "A",
+          "explanation": ""
+        },
+        {
+          "id": 33,
+          "original_id": 33,
+          "theme": "Connaissances techniques",
+          "question": "Quel est le principal objectif du label ISR (Investissement Socialement Responsable) ?",
+          "options": {
+            "A": "Permettre aux épargnants de choisir des placements financiers responsables et durables",
+            "B": "Lister les produits financiers solidaires",
+            "C": "Promouvoir les organismes philanthropiques"
+          },
+          "correct_answer": "A",
+          "explanation": ""
+        },
+        {
+          "id": 34,
+          "original_id": 34,
+          "theme": "Connaissances techniques",
+          "question": "Parmi les labels suivants, lequel vise à distinguer les produits d'épargne solidaire qui contribuent au financement d'activités génératrices d'utilité sociale et/ou environnementale par le biais de critères de solidarité et de transparence ?",
+          "options": {
+            "A": "Label Greenfin",
+            "B": "Label CIES",
+            "C": "Label Finansol"
+          },
+          "correct_answer": "C",
+          "explanation": ""
+        },
+        {
+          "id": 35,
+          "original_id": 35,
+          "theme": "Connaissances techniques",
+          "question": "Parmi les labels suivants, lequel est un label créé par le ministère de la Transition écologique qui garantit l'orientation des investissements vers le financement de la Transition énergétique et écologique ?",
+          "options": {
+            "A": "Label Greenfin",
+            "B": "Label ISR",
+            "C": "Label Finansol"
+          },
+          "correct_answer": "A",
+          "explanation": ""
+        },
+        {
+          "id": 36,
+          "original_id": 36,
+          "theme": "Connaissances techniques",
+          "question": "Qu'est-ce que l'approche \"best-in-class\" ?",
+          "options": {
+            "A": "Une sélection par secteur des trois leaders mondiaux",
+            "B": "Une approche thématique, sélectionnant par secteur, les sociétés qui mettent le mieux en œuvre des pratiques de développement durable",
+            "C": "Une approche thématique focalisée sur les valeurs liées à l'éducation et à la culture"
+          },
+          "correct_answer": "B",
+          "explanation": ""
+        },
+        {
+          "id": 37,
+          "original_id": 37,
+          "theme": "Connaissances techniques",
+          "question": "Parmi ces propositions, laquelle définit le mieux ce que sont les critères ESG ?",
+          "options": {
+            "A": "Des critères de mesure de satisfaction clients",
+            "B": "Des critères d'analyse de performance extra financière",
+            "C": "Des critères d'exclusion et d'éligibilité"
+          },
+          "correct_answer": "B",
+          "explanation": ""
+        },
+        {
+          "id": 38,
+          "original_id": 38,
+          "theme": "Connaissances techniques",
+          "question": "Que permettent les obligations vertes ?",
+          "options": {
+            "A": "De financer les dépenses de l'état français dans tous les domaines",
+            "B": "De financer les projets contribuant à la transition écologique",
+            "C": "De financer les projets ayant reçu un accord du ministère de la transition écologique"
+          },
+          "correct_answer": "B",
+          "explanation": ""
+        },
+        {
+          "id": 39,
+          "original_id": 39,
+          "theme": "Connaissances techniques",
+          "question": "Les \"green bonds\" sont :",
+          "options": {
+            "A": "Des obligations à haut rendement",
+            "B": "Des Bons du Trésor américains dédiés au financement durable",
+            "C": "Des obligations qui permettent de financer des projets d'entreprises respectueux de l'environnement"
+          },
+          "correct_answer": "C",
+          "explanation": ""
+        },
+        {
+          "id": 40,
+          "original_id": 40,
+          "theme": "Connaissances techniques",
+          "question": "Les investissements ISR (investissements socialement responsables) :",
+          "options": {
+            "A": "Sont réservés aux investisseurs institutionnels",
+            "B": "Sont une forme d'investissement durable",
+            "C": "Sont des investissements réalisés dans le secteur des nouvelles technologies"
+          },
+          "correct_answer": "B",
+          "explanation": ""
+        },
+        {
+          "id": 41,
+          "original_id": 41,
+          "theme": "Connaissances techniques",
+          "question": "Le label ISR (investissement socialement responsable) impose une transparence renforcée. Notamment :",
+          "options": {
+            "A": "La nationalité des dirigeants du fonds doit être communiquée aux investisseurs",
+            "B": "La rémunération des dirigeants doit être communiquée aux investisseurs sur une base mensuelle",
+            "C": "Un rapport sur la gestion ESG doit être communiqué aux investisseurs sur une base au moins annuelle"
+          },
+          "correct_answer": "C",
+          "explanation": ""
+        },
+        {
+          "id": 42,
+          "original_id": 42,
+          "theme": "Connaissances techniques",
+          "question": "À quoi correspond le « risque en matière de durabilité » ?",
+          "options": {
+            "A": "Le risque qu'un évènement ou une situation dans le domaine environnemental, social ou de gouvernance ait une incidence négative importante sur la valeur de l'investissement",
+            "B": "Le risque que l'horizon de placement n'est pas suffisamment long pour que la prime de risque couvre le risque pris",
+            "C": "Le risque que la duration obligataire ne suffise pas pour couvrir l'investissement contre le risque de taux"
+          },
+          "correct_answer": "A",
+          "explanation": ""
+        },
+        {
+          "id": 43,
+          "original_id": 43,
+          "theme": "Connaissances techniques",
+          "question": "Le règlement Disclosure (Sustainable Finance Disclosure Régulation, SFDR - Règlement UE 2019/2088) oblige les acteurs des marchés financiers et conseillers financiers à intégrer dans les informations précontractuelles :",
+          "options": {
+            "A": "Uniquement des informations sur les caractéristiques financières des instruments",
+            "B": "La valeur liquidative des supports",
+            "C": "La manière dont les risques en matière de durabilité sont intégrés dans leurs décisions d'investissement"
+          },
+          "correct_answer": "C",
+          "explanation": ""
+        },
+        {
+          "id": 44,
+          "original_id": 44,
+          "theme": "Connaissances techniques",
+          "question": "En application du règlement Disclosure (Sustainable Finance Disclosure Régulation, SFDR - Règlement UE 2019/2088) les acteurs des marchés financiers :",
+          "options": {
+            "A": "Doivent prendre en compte l'incidence positive en matière de durabilité dans le choix de produits financiers",
+            "B": "Doivent prendre en compte l'incidence négative en matière de durabilité dans le choix de produits financiers",
+            "C": "Doivent prendre en compte uniquement la performance financière des titres"
+          },
+          "correct_answer": "B",
+          "explanation": ""
+        },
+        {
+          "id": 45,
+          "original_id": 45,
+          "theme": "Connaissances techniques",
+          "question": "Un placement dans un fonds ISR vise :",
+          "options": {
+            "A": "Exclusivement à générer un impact social et environnemental",
+            "B": "À financer des activités choisies en fonction de leur utilité effective en matière de lutte contre l'exclusion, de cohésion sociale et de développement durable",
+            "C": "À concilier performance financière avec impact social et environnemental"
+          },
+          "correct_answer": "C",
+          "explanation": ""
+        },
+        {
+          "id": 46,
+          "original_id": 46,
+          "theme": "Connaissances techniques",
+          "question": "Pour les produits financiers, l'obligation de transparence d'un PSI sur les risques de durabilité se traduit par :",
+          "options": {
+            "A": "La précision dans les documents commerciaux, de la façon dont les risques liés à la durabilité sont intégrés dans les décisions d'investissement",
+            "B": "La précision dans les documents précontractuels, de la façon dont les risques liés à la durabilité sont intégrés dans les décisions d'investissement, et l'identification de l'impact possible sur la rentabilité d'un investissement",
+            "C": "Un rapport annuel sur les incidences négatives des produits sur les facteurs de durabilité"
+          },
+          "correct_answer": "B",
+          "explanation": ""
+        },
+        {
+          "id": 47,
+          "original_id": 47,
+          "theme": "Connaissances techniques",
+          "question": "Que permet le SRD (Service à Règlement Différé) aux investisseurs ?",
+          "options": {
+            "A": "De régler les titres achetés ou de livrer les titres vendus en fin de mois",
+            "B": "D'acquérir des valeurs de jeunes sociétés à faible capitalisation en les réglant à terme",
+            "C": "D'intervenir sur les marchés dérivés"
+          },
+          "correct_answer": "A",
+          "explanation": ""
+        },
+        {
+          "id": 48,
+          "original_id": 48,
+          "theme": "Connaissances techniques",
+          "question": "En quoi consiste l'internalisation systématique ?",
+          "options": {
+            "A": "À exécuter les ordres de la clientèle sur un marché réglementé",
+            "B": "À exécuter les ordres de la clientèle en se portant directement contrepartie",
+            "C": "À transmettre les ordres de la clientèle à un marché domestique réglementé"
+          },
+          "correct_answer": "B",
+          "explanation": ""
+        },
+        {
+          "id": 49,
+          "original_id": 49,
+          "theme": "Connaissances techniques",
+          "question": "Selon les règles de marché d'Euronext, les ordres à prix limité sont exécutés avec la priorité suivante :",
+          "options": {
+            "A": "Uniquement l'ordre d'arrivée dans le carnet d'ordres central",
+            "B": "La taille de l'ordre d'abord, puis l'ordre d'arrivée dans le carnet d'ordres central",
+            "C": "La limite de prix d'abord, puis l'ordre d'arrivée dans le carnet d'ordres central"
+          },
+          "correct_answer": "C",
+          "explanation": ""
+        },
+        {
+          "id": 50,
+          "original_id": 50,
+          "theme": "Connaissances techniques",
+          "question": "Les gestionnaires de systèmes de négociation à carnet d'ordres assurant la cotation de valeurs en continu doivent publier :",
+          "options": {
+            "A": "Au moins les dix meilleures limites de prix à l'achat et à la vente",
+            "B": "Au moins les vingt meilleures limites de prix à l'achat et à la vente",
+            "C": "Au moins les cinq meilleures limites de prix à l'achat et à la vente sur ces valeurs"
+          },
+          "correct_answer": "C",
+          "explanation": ""
+        },
+        {
+          "id": 51,
+          "original_id": 51,
+          "theme": "Connaissances techniques",
+          "question": "Un animateur de marché est une entreprise, généralement une banque d'investissement, ou une personne qui, sur un marché donné :",
+          "options": {
+            "A": "Transmet, à une certaine périodicité, des prix à l'achat uniquement à sa clientèle",
+            "B": "Publie des recommandations d'investissement à destination du marché",
+            "C": "Transmet, en continu, des prix à l'achat et à la vente, soit à sa clientèle, soit à l'ensemble du marché"
+          },
+          "correct_answer": "C",
+          "explanation": ""
+        },
+        {
+          "id": 52,
+          "original_id": 52,
+          "theme": "Connaissances techniques",
+          "question": "Qui est en charge de la supervision des agences de notation ?",
+          "options": {
+            "A": "Le pôle commun AMF/ACPR",
+            "B": "L'Autorité européenne des marchés financiers (AEMF)",
+            "C": "Une autorité spécifique"
+          },
+          "correct_answer": "B",
+          "explanation": ""
+        },
+        {
+          "id": 53,
+          "original_id": 53,
+          "theme": "Connaissances techniques",
+          "question": "Règlementairement, la tenue du passif d'un OPCVM correspond :",
+          "options": {
+            "A": "Au contrôle du respect des ratios réglementaires par le gérant de l'OPCVM",
+            "B": "À la valorisation des actifs composant le portefeuille de l'OPCVM",
+            "C": "Aux missions de centralisation des ordres de souscription/rachat et de tenue du compte émission de l'OPCVM"
+          },
+          "correct_answer": "C",
+          "explanation": ""
+        },
+        {
+          "id": 54,
+          "original_id": 54,
+          "theme": "Connaissances techniques",
+          "question": "Depuis le 1er janvier 2004, la tenue administrative de compte d'épargne salariale est déléguée à des opérateurs dédiés appelés :",
+          "options": {
+            "A": "SGP (Société de Gestion de Portefeuille)",
+            "B": "FCPE (Fonds Commun de Placement d'Entreprise)",
+            "C": "TCCP (Teneurs de Comptes Conservateurs de Parts)"
+          },
+          "correct_answer": "C",
+          "explanation": ""
+        },
+        {
+          "id": 55,
+          "original_id": 55,
+          "theme": "Connaissances techniques",
+          "question": "En France, le délai de règlement-livraison d'un ordre de bourse est de :",
+          "options": {
+            "A": "J+3",
+            "B": "J+2",
+            "C": "J+5"
+          },
+          "correct_answer": "B",
+          "explanation": ""
+        },
+        {
+          "id": 56,
+          "original_id": 56,
+          "theme": "Connaissances techniques",
+          "question": "Le seuil de déclenchement de l'obligation d'établir un prospectus d'offre au public est fixé à :",
+          "options": {
+            "A": "8 millions d'euros",
+            "B": "1 million d'euros",
+            "C": "100 millions d'euros"
+          },
+          "correct_answer": "A",
+          "explanation": ""
+        },
+        {
+          "id": 57,
+          "original_id": 57,
+          "theme": "Connaissances techniques",
+          "question": "Une OPA est une :",
+          "options": {
+            "A": "Opération par laquelle une entreprise achète les actions d'une autre entreprise et en devient propriétaire",
+            "B": "Opération publique anticipée",
+            "C": "Opération par laquelle la chambre de compensation s'interpose entre l'acheteur et le vendeur de titres"
+          },
+          "correct_answer": "A",
+          "explanation": ""
+        },
+        {
+          "id": 58,
+          "original_id": 58,
+          "theme": "Connaissances techniques",
+          "question": "Qu'est-ce que la marge commerciale ?",
+          "options": {
+            "A": "Il s'agit de la différence entre le prix de vente toutes taxes comprises (TTC) et le coût d'achat TTC des marchandises vendues",
+            "B": "Il s'agit de la différence entre le montant hors taxe (HT) des ventes et le coût d'achat HT des marchandises vendues, au cours d'un exercice comptable",
+            "C": "Il s'agit de la performance industrielle de l'entreprise"
+          },
+          "correct_answer": "B",
+          "explanation": ""
+        },
+        {
+          "id": 59,
+          "original_id": 59,
+          "theme": "Connaissances techniques",
+          "question": "Pour une entreprise, que trouve-t-on, entre autres, dans les immobilisations financières ?",
+          "options": {
+            "A": "La part amortie des immobilisations corporelles",
+            "B": "Les titres financiers acquis par l'entreprise pour être détenus à long terme",
+            "C": "Ses dettes à court terme"
+          },
+          "correct_answer": "B",
+          "explanation": ""
+        },
+        {
+          "id": 60,
+          "original_id": 60,
+          "theme": "Connaissances techniques",
+          "question": "Le Document d'Enregistrement Universel (DEU) doit être soumis à la fois à l'AMF et à l'AEMF (Autorité Européenne des Marchés Financiers) ?",
+          "options": {
+            "A": "Oui. Cette double approbation est obligatoire pour les sociétés cotées",
+            "B": "Non. L'AMF notifie le certificat d'approbation à l'AEMF",
+            "C": "Non, puisque l'approbation par l'AMF est facultative"
+          },
+          "correct_answer": "B",
+          "explanation": ""
+        },
+        {
+          "id": 61,
+          "original_id": 61,
+          "theme": "Connaissances techniques",
+          "question": "Sont soumises à l'impôt sur la fortune immobilière (IFI) :",
+          "options": {
+            "A": "Les personnes physiques ayant leur domicile fiscal en France, uniquement à raison de leurs biens et droits immobiliers situés en France",
+            "B": "Les personnes physiques ayant leur domicile fiscal en France, à raison de leurs biens et droits immobiliers situés en France ou hors de France",
+            "C": "Les personnes physiques et morales ayant leur domicile fiscal en France, à raison de leurs biens et droits immobiliers situés en France"
+          },
+          "correct_answer": "B",
+          "explanation": ""
+        },
+        {
+          "id": 62,
+          "original_id": 62,
+          "theme": "Connaissances techniques",
+          "question": "L'IFI (Impôt sur la Fortune Immobilière) est l'impôt qui remplace :",
+          "options": {
+            "A": "La taxe d'habitation",
+            "B": "L'ISF (Impôt de Solidarité sur la Fortune)",
+            "C": "Les impôts fonciers"
+          },
+          "correct_answer": "B",
+          "explanation": ""
+        },
+        {
+          "id": 63,
+          "original_id": 63,
+          "theme": "Connaissances techniques",
+          "question": "Une entreprise de droit français est soumise à l'Impôt sur le bénéfice des Sociétés (IS) en France en fonction de ses activités en France et des activités réalisées :",
+          "options": {
+            "A": "En France par ses filiales étrangères",
+            "B": "À l'étranger par elle-même ou par ses succursales étrangères",
+            "C": "À l'étranger par ses filiales étrangères"
+          },
+          "correct_answer": "A",
+          "explanation": ""
+        },
+        {
+          "id": 64,
+          "original_id": 64,
+          "theme": "Connaissances techniques",
+          "question": "Concernant les informations recueillies sur le client, de quoi doit s'assurer le PSI ?",
+          "options": {
+            "A": "Que le questionnaire est compréhensible et permet d'évaluer l'adéquation des produits ou services proposés",
+            "B": "Que le questionnaire est compréhensible et autorise à passer les ordres de bourse",
+            "C": "Que le questionnaire est compréhensible et permet de fixer une tarification sur les services proposés"
+          },
+          "correct_answer": "A",
+          "explanation": ""
+        },
+        {
+          "id": 65,
+          "original_id": 1,
+          "theme": "Connaissances techniques",
+          "question": "Le rendement d'une action est égal :",
+          "options": {
+            "A": "Au rapport du dividende sur le nominal de l'action",
+            "B": "Au produit entre le dividende et le prix de l'action",
+            "C": "Au rapport du dividende sur le cours de l'action"
+          },
+          "correct_answer": "C",
+          "explanation": ""
+        },
+        {
+          "id": 66,
+          "original_id": 2,
+          "theme": "Connaissances techniques",
+          "question": "Le risque de change d'un instrument financier correspond :",
+          "options": {
+            "A": "À la variation du cours des devises",
+            "B": "À la variation des taux d'intérêt",
+            "C": "Au risque de ne pas trouver de contrepartie"
+          },
+          "correct_answer": "A",
+          "explanation": ""
+        },
+        {
+          "id": 67,
+          "original_id": 3,
+          "theme": "Connaissances techniques",
+          "question": "À quoi correspond le risque de change ?",
+          "options": {
+            "A": "Exclusivement au risque de hausse du taux de change",
+            "B": "Exclusivement au risque de baisse du taux de change",
+            "C": "Au risque d'évolution défavorable du taux de change"
+          },
+          "correct_answer": "C",
+          "explanation": ""
+        },
+        {
+          "id": 68,
+          "original_id": 4,
+          "theme": "Connaissances techniques",
+          "question": "Les actions à droit de vote double permettent à l'actionnaire :",
+          "options": {
+            "A": "D'avoir deux fois plus de droits de vote qu'avec les actions ordinaires",
+            "B": "De voter une deuxième fois en cas d'erreur",
+            "C": "D'augmenter de manière illicite le nombre votes"
+          },
+          "correct_answer": "A",
+          "explanation": ""
+        },
+        {
+          "id": 69,
+          "original_id": 5,
+          "theme": "Connaissances techniques",
+          "question": "Qu'appelle-t-on un dividende ?",
+          "options": {
+            "A": "La plus value versée aux actionnaires par une société",
+            "B": "La partie du bénéfice reversé aux actionnaires par une société",
+            "C": "La plus value versée par un OPC actions"
+          },
+          "correct_answer": "B",
+          "explanation": ""
+        },
+        {
+          "id": 70,
+          "original_id": 6,
+          "theme": "Connaissances techniques",
+          "question": "Plusieurs types de volatilité existent dont :",
+          "options": {
+            "A": "La volatilité historique et la volatilité implicite",
+            "B": "La volatilité historique et la volatilité exponentielle",
+            "C": "La volatilité implicite et la volatilité exponentielle"
+          },
+          "correct_answer": "A",
+          "explanation": ""
+        },
+        {
+          "id": 71,
+          "original_id": 7,
+          "theme": "Connaissances techniques",
+          "question": "Une OATi est une :",
+          "options": {
+            "A": "Obligation immunisée contre le risque de taux d'intérêt",
+            "B": "Obligation assimilable du Trésor indexée sur l'inflation",
+            "C": "Obligation à taux révisable indexée sur l'EURIBOR 12 mois"
+          },
+          "correct_answer": "B",
+          "explanation": ""
+        },
+        {
+          "id": 72,
+          "original_id": 8,
+          "theme": "Connaissances techniques",
+          "question": "La prime de remboursement d'une obligation s'obtient :",
+          "options": {
+            "A": "En faisant la différence entre le prix de remboursement et le cours de l'obligation",
+            "B": "En faisant la somme du prix d'émission et du prix de remboursement",
+            "C": "En faisant la différence entre le prix de remboursement et la valeur nominale"
+          },
+          "correct_answer": "C",
+          "explanation": ""
+        },
+        {
+          "id": 73,
+          "original_id": 9,
+          "theme": "Connaissances techniques",
+          "question": "La sensibilité d'une obligation mesure :",
+          "options": {
+            "A": "La variation de sa valeur nominale induite par une variation donnée du taux d'intérêt",
+            "B": "La variation de sa valeur en pourcentage induite par une variation donnée du taux d'intérêt",
+            "C": "La variation de sa valeur en pourcentage induite par une variation donnée de sa valeur nominale"
+          },
+          "correct_answer": "B",
+          "explanation": ""
+        },
+        {
+          "id": 74,
+          "original_id": 10,
+          "theme": "Connaissances techniques",
+          "question": "Le principal avantage de l'ESTER (EURO Short Term Rate) par rapport à l'EURIBOR (Euro Interbank Offered Rate) :",
+          "options": {
+            "A": "L'EURIBOR est calculé de manière hybride, s'appuyant sur les transactions effectives et les taux offerts par les banques sur le marché interbancaire, alors que l'ESTER est calculé sur la base des transactions réelles des prêts interbancaires réalisées la veille",
+            "B": "L'EURIBOR est actualisé quotidiennement, quand l'ESTER est calculé une fois par mois et montre une tendance d'évolution des taux à plus long terme",
+            "C": "L'EURIBOR est calculé sur la base des transactions réelles des prêts interbancaires réalisées la veille, alors que l'ESTER est calculé de manière hybride, s'appuyant sur les transactions effectives et les taux offerts par les banques sur le marché interbancaire"
+          },
+          "correct_answer": "A",
+          "explanation": ""
+        },
+        {
+          "id": 75,
+          "original_id": 11,
+          "theme": "Connaissances techniques",
+          "question": "L'indice Euro short Terme Rate (€STER) :",
+          "options": {
+            "A": "Est le taux au jour le jour basé sur les emprunts effectués par des banques auprès de contreparties financières",
+            "B": "Est publié par l'European Securities and Markets Authority (ESMA)",
+            "C": "Remplace le taux Euro Interbank Offered Rate (Euribor)"
+          },
+          "correct_answer": "A",
+          "explanation": ""
+        },
+        {
+          "id": 76,
+          "original_id": 12,
+          "theme": "Connaissances techniques",
+          "question": "Les titres subordonnés :",
+          "options": {
+            "A": "Sont des titres représentatifs d'une dette mais qui peuvent être néanmoins assimilés à des fonds propres",
+            "B": "Sont des titres qui ne peuvent être émis que par les Etats et les Collectivités locales",
+            "C": "Sont des titres dont le remboursement est prioritaire en cas de faillite de l'entreprise émettrice"
+          },
+          "correct_answer": "A",
+          "explanation": ""
+        },
+        {
+          "id": 77,
+          "original_id": 13,
+          "theme": "Connaissances techniques",
+          "question": "Lequel des produits suivants est un instrument d'épargne réglementé par la loi ?",
+          "options": {
+            "A": "Livret E",
+            "B": "Les comptes à terme",
+            "C": "Livret A"
+          },
+          "correct_answer": "C",
+          "explanation": ""
+        },
+        {
+          "id": 78,
+          "original_id": 14,
+          "theme": "Connaissances techniques",
+          "question": "La rémunération par un établissement de crédit d'un compte à terme est :",
+          "options": {
+            "A": "Fixé par l'Autorité de Contrôle Prudentiel et de Résolution (ACPR)",
+            "B": "Libre",
+            "C": "Fixée par l'Autorité des Marchés Financiers (AMF)"
+          },
+          "correct_answer": "B",
+          "explanation": ""
+        },
+        {
+          "id": 79,
+          "original_id": 15,
+          "theme": "Connaissances techniques",
+          "question": "Lorsqu'un investisseur achète une option sur les marchés dérivés :",
+          "options": {
+            "A": "Il a le droit d'exercer ou non son option",
+            "B": "Il est engagé de façon ferme et irréversible",
+            "C": "Il doit échanger un titre contre un autre"
+          },
+          "correct_answer": "A",
+          "explanation": ""
+        },
+        {
+          "id": 80,
+          "original_id": 16,
+          "theme": "Connaissances techniques",
+          "question": "Que signifie l'acronyme FIA ?",
+          "options": {
+            "A": "Fonds d'investissement en actions",
+            "B": "Fonds d'investissement alternatif",
+            "C": "Fonds d'investissement agréé"
+          },
+          "correct_answer": "B",
+          "explanation": ""
+        },
+        {
+          "id": 81,
+          "original_id": 17,
+          "theme": "Connaissances techniques",
+          "question": "Les OPC sont :",
+          "options": {
+            "A": "Des organismes de portage collectif",
+            "B": "Des organismes de placement commun",
+            "C": "Des organismes de placement collectif"
+          },
+          "correct_answer": "C",
+          "explanation": ""
+        },
+        {
+          "id": 82,
+          "original_id": 18,
+          "theme": "Connaissances techniques",
+          "question": "L'AMF est habilitée à déterminer un minimum de garanties :",
+          "options": {
+            "A": "Pour toutes les opérations d'investissement en bien divers",
+            "B": "Uniquement pour une catégorie d'investissements en bien divers sans contrôle préalable",
+            "C": "Uniquement pour une catégorie d'investissements en bien divers jugés risqués"
+          },
+          "correct_answer": "A",
+          "explanation": ""
+        },
+        {
+          "id": 83,
+          "original_id": 19,
+          "theme": "Connaissances techniques",
+          "question": "En matière d'intermédiation en biens divers, auprès de quelle autorité doit être déposé le document destiné à donner toute information utile au public sur l'opération proposée, sur la personne qui en a pris l'initiative et sur le gestionnaire ?",
+          "options": {
+            "A": "L'ACPR",
+            "B": "La Banque de France",
+            "C": "L'AMF"
+          },
+          "correct_answer": "C",
+          "explanation": ""
+        },
+        {
+          "id": 84,
+          "original_id": 20,
+          "theme": "Connaissances techniques",
+          "question": "Dans le cadre d'une levée de fonds numérique (ICO), les jetons :",
+          "options": {
+            "A": "Sont distribués par paquet de 10",
+            "B": "Représentent un ou plusieurs droits",
+            "C": "Ont un taux de rendement fixe"
+          },
+          "correct_answer": "B",
+          "explanation": ""
+        },
+        {
+          "id": 85,
+          "original_id": 21,
+          "theme": "Connaissances techniques",
+          "question": "Les PSAN (Prestataires de Services sur Actifs Numériques) commercialisant des crypto-actifs peuvent être agréés par :",
+          "options": {
+            "A": "L'ACPR (Autorité de Contrôle Prudentiel et de Résolution)",
+            "B": "La Banque de France",
+            "C": "L'AMF (Autorité des Marchés Financiers)"
+          },
+          "correct_answer": "C",
+          "explanation": ""
+        },
+        {
+          "id": 86,
+          "original_id": 22,
+          "theme": "Connaissances techniques",
+          "question": "Qui est chargé de contrôler le respect par le gérant d'OPCVM des règles d'investissement et de composition de l'actif ?",
+          "options": {
+            "A": "Le dépositaire de l'OPCVM",
+            "B": "Le distributeur de l'OPCVM",
+            "C": "Les investisseurs"
+          },
+          "correct_answer": "A",
+          "explanation": ""
+        },
+        {
+          "id": 87,
+          "original_id": 23,
+          "theme": "Connaissances techniques",
+          "question": "Quelle est, entre autres, l'obligation qui s'impose aux gestionnaires d'actifs ?",
+          "options": {
+            "A": "Les gestionnaires sont tenus à une obligation de résultat",
+            "B": "Les gestionnaires doivent exercer leur activité dans l'intérêt exclusif de leurs mandants",
+            "C": "La gestion du portefeuille propre et la gestion des portefeuilles clients doivent faire l'objet d'un rapport régulier auprès de l'AMF, si ces deux gestions sont confondues"
+          },
+          "correct_answer": "B",
+          "explanation": ""
+        },
+        {
+          "id": 88,
+          "original_id": 24,
+          "theme": "Connaissances techniques",
+          "question": "Concernant la gestion benchmarkée, laquelle de ces affirmations est juste ?",
+          "options": {
+            "A": "Les risques de pertes de l'OPC ne sont liés qu'aux variations de son capital",
+            "B": "La performance de l'OPC s'analyse par rapport à l'indice de référence indiqué dans son DIC",
+            "C": "La performance de l'OPC ne repose que sur les anticipations de l'investisseur"
+          },
+          "correct_answer": "B",
+          "explanation": ""
+        },
+        {
+          "id": 89,
+          "original_id": 1,
+          "theme": "Connaissances techniques",
+          "question": "Comment se définit le risque opérationnel ?",
+          "options": {
+            "A": "Le risque lié aux processus et systèmes, aux personnes ou aux événements externes",
+            "B": "Le risque d'inefficacité d'une stratégie de marché",
+            "C": "Le risque lié à toute opération de marché"
+          },
+          "correct_answer": "A",
+          "explanation": ""
+        },
+        {
+          "id": 90,
+          "original_id": 2,
+          "theme": "Connaissances techniques",
+          "question": "Le risque qu'un investisseur ne puisse pas revendre ses titres sur le marché est appelé :",
+          "options": {
+            "A": "Le risque de crédit",
+            "B": "Le risque de liquidité",
+            "C": "Le risque de crédit et de liquidité"
+          },
+          "correct_answer": "B",
+          "explanation": ""
+        },
+        {
+          "id": 91,
+          "original_id": 3,
+          "theme": "Connaissances techniques",
+          "question": "Les parts ou actions d'Organismes de Placement Collectif (OPC) sont :",
+          "options": {
+            "A": "Des titres financiers",
+            "B": "Les deux",
+            "C": "Des contrats financiers"
+          },
+          "correct_answer": "A",
+          "explanation": ""
+        },
+        {
+          "id": 92,
+          "original_id": 4,
+          "theme": "Connaissances techniques",
+          "question": "L'achat d'actions permet :",
+          "options": {
+            "A": "De prêter sur les marchés",
+            "B": "D'acquérir une part du capital social d'une entreprise",
+            "C": "De bénéficier d'un dividende annuel garanti"
+          },
+          "correct_answer": "B",
+          "explanation": ""
+        },
+        {
+          "id": 93,
+          "original_id": 5,
+          "theme": "Connaissances techniques",
+          "question": "Parmi les affirmations suivantes, laquelle est exacte ?",
+          "options": {
+            "A": "Les actions représentent une dette pour l'entreprise émettrice",
+            "B": "Les actions sont des valeurs mobilières représentatives d'une part de capital de l'entreprise émettrice",
+            "C": "Les actions sont des titres de créances"
+          },
+          "correct_answer": "B",
+          "explanation": ""
+        },
+        {
+          "id": 94,
+          "original_id": 6,
+          "theme": "Connaissances techniques",
+          "question": "Qu'est-ce qu'une action de préférence ?",
+          "options": {
+            "A": "Des actions qui dérogent au principe de proportionnalité",
+            "B": "Des actions distribuées gratuitement aux anciens actionnaires",
+            "C": "Des actions détenus par le Gouvernement (\"golden share\")"
+          },
+          "correct_answer": "A",
+          "explanation": ""
+        },
+        {
+          "id": 95,
+          "original_id": 7,
+          "theme": "Connaissances techniques",
+          "question": "Le détenteur d'une obligation dite in fine perçoit :",
+          "options": {
+            "A": "Les intérêts au terme de chaque période et la totalité du capital à la date de maturité",
+            "B": "Les intérêts et la totalité du capital à la date de maturité",
+            "C": "Une fraction identique du capital et des intérêts décroissants au terme de chaque période, jusqu'à la date de maturité"
+          },
+          "correct_answer": "A",
+          "explanation": ""
+        },
+        {
+          "id": 96,
+          "original_id": 8,
+          "theme": "Connaissances techniques",
+          "question": "Est-ce que les obligations sont toujours émises et remboursées \"au pair\" ?",
+          "options": {
+            "A": "Elles sont toujours remboursées au pair mais peuvent faire l'objet d'une prime d'émission",
+            "B": "Elles peuvent être assorties de prime d'émission et/ou de remboursement",
+            "C": "Elles sont toujours émises au pair mais peuvent faire l'objet d'une prime de remboursement"
+          },
+          "correct_answer": "B",
+          "explanation": ""
+        },
+        {
+          "id": 97,
+          "original_id": 9,
+          "theme": "Connaissances techniques",
+          "question": "Lequel de ces instruments permet aux émetteurs de se financer sur le marché monétaire ?",
+          "options": {
+            "A": "Les titres de créances négociables",
+            "B": "Les actions",
+            "C": "Les obligations"
+          },
+          "correct_answer": "A",
+          "explanation": ""
+        },
+        {
+          "id": 98,
+          "original_id": 10,
+          "theme": "Connaissances techniques",
+          "question": "L'indice Euro Interbank Offered Rate (Euribor) est :",
+          "options": {
+            "A": "Le taux moyen auquel certaines banques de l'UE peuvent obtenir des fonds sur le marché interbancaire",
+            "B": "Le taux fixé par la Banque Centrale Européenne (BCE) chaque semaine",
+            "C": "Le taux défini par la Federal Reserve System (FED)"
+          },
+          "correct_answer": "A",
+          "explanation": ""
+        },
+        {
+          "id": 99,
+          "original_id": 12,
+          "theme": "Connaissances techniques",
+          "question": "Le compte à terme (CAT) est un contrat d'épargne dans lequel :",
+          "options": {
+            "A": "La somme épargnée est bloquée pendant toute la durée du contrat et le taux d'intérêt n'est pas garanti",
+            "B": "La somme épargnée peut être retirée à tout moment sans pénalités et le taux d'intérêt n'est pas garanti",
+            "C": "La somme épargnée est bloquée pendant toute la durée du contrat et le taux d'intérêt garanti peut être fixe ou progressif"
+          },
+          "correct_answer": "C",
+          "explanation": ""
+        },
+        {
+          "id": 100,
+          "original_id": 16,
+          "theme": "Connaissances techniques",
+          "question": "La valeur liquidative d'un OPC est égale :",
+          "options": {
+            "A": "Au capital initial de l'OPC divisé par le nombre de parts existantes",
+            "B": "Au capital initial divisé par le nombre de parts initiales",
+            "C": "A l'actif net du jour de l'OPC divisé par le nombre de parts ou d'actions existantes"
+          },
+          "correct_answer": "C",
+          "explanation": ""
+        },
+        {
+          "id": 101,
+          "original_id": 17,
+          "theme": "Connaissances techniques",
+          "question": "Les frais supportés par les investisseurs dans un OPCVM :",
+          "options": {
+            "A": "Sont présentés Hors Taxe",
+            "B": "Sont présentés Toutes Taxes Comprises",
+            "C": "Ne sont communiqués que sur demande, au format désiré"
+          },
+          "correct_answer": "B",
+          "explanation": ""
+        },
+        {
+          "id": 102,
+          "original_id": 18,
+          "theme": "Connaissances techniques",
+          "question": "Avant la commercialisation d'un nouveau produit, les intermédiaires en biens divers :",
+          "options": {
+            "A": "Doivent déposer ces documents auprès de l'ACPR",
+            "B": "Doivent déposer les projets de documents d'information et de contrats-types auprès de l'AMF",
+            "C": "N'ont aucune obligation en la matière"
+          },
+          "correct_answer": "B",
+          "explanation": ""
+        },
+        {
+          "id": 103,
+          "original_id": 19,
+          "theme": "Connaissances techniques",
+          "question": "Quelle source réglementaire encadre l'activité des intermédiaires financiers en biens divers ?",
+          "options": {
+            "A": "La directive UCITS",
+            "B": "Le code des assurances",
+            "C": "Le COMOFI (Code Monétaire et Financier)"
+          },
+          "correct_answer": "C",
+          "explanation": ""
+        },
+        {
+          "id": 104,
+          "original_id": 1,
+          "theme": "Connaissances techniques",
+          "question": "Le rendement d'une action est égal :",
+          "options": {
+            "A": "Au produit entre le dividende et le prix de l'action",
+            "B": "Au rapport du dividende sur le nominal de l'action",
+            "C": "Au rapport du dividende sur le cours de l'action"
+          },
+          "correct_answer": "C",
+          "explanation": ""
+        },
+        {
+          "id": 105,
+          "original_id": 2,
+          "theme": "Connaissances techniques",
+          "question": "Parmi les affirmations suivantes, laquelle est vraie :",
+          "options": {
+            "A": "Les actions sont les moins risquées des actifs financiers",
+            "B": "Les rendements des produits financiers dépendent habituellement de leur risque",
+            "C": "Les emprunts d'État ont généralement un rendement plus élevé que les actions car ils sont considérés comme plus risqués"
+          },
+          "correct_answer": "B",
+          "explanation": ""
+        },
+        {
+          "id": 106,
+          "original_id": 3,
+          "theme": "Connaissances techniques",
+          "question": "Parmi les définitions de risque proposées ci-après, laquelle correspond à la définition du risque de crédit pour un investisseur ?",
+          "options": {
+            "A": "Le risque de perte résultant de carences ou de défauts chez l'investisseur attribuables à des procédures, personnels et systèmes internes ou à des événements extérieurs",
+            "B": "Le risque de perte résultant de l'incapacité d'un débiteur de rembourser sa créance ou de payer les intérêts dans les termes fixés lors de l'emprunt ou de l'émission du titre de créance",
+            "C": "Le risque de perte résultant de l'impossibilité de l'investisseur de trouver une contrepartie dans le marché pour acheter ou vendre un instrument financier donné dans des conditions normales de prix"
+          },
+          "correct_answer": "B",
+          "explanation": ""
+        },
+        {
+          "id": 107,
+          "original_id": 4,
+          "theme": "Connaissances techniques",
+          "question": "La responsabilité d'un actionnaire dans la gestion de l'entreprise est engagée :",
+          "options": {
+            "A": "De façon illimitée",
+            "B": "À hauteur de son apport",
+            "C": "À hauteur de son patrimoine"
+          },
+          "correct_answer": "B",
+          "explanation": ""
+        },
+        {
+          "id": 108,
+          "original_id": 5,
+          "theme": "Connaissances techniques",
+          "question": "La totalité des actions d'une société représente :",
+          "options": {
+            "A": "L'endettement de la société",
+            "B": "Le capital social de la société",
+            "C": "Les deux"
+          },
+          "correct_answer": "B",
+          "explanation": ""
+        },
+        {
+          "id": 109,
+          "original_id": 6,
+          "theme": "Connaissances techniques",
+          "question": "Pour un instrument financier, qu'est-ce que le PER (Price Earning Ratio) ?",
+          "options": {
+            "A": "Un indicateur fiscal",
+            "B": "Un indicateur boursier",
+            "C": "Un indicateur comptable"
+          },
+          "correct_answer": "B",
+          "explanation": ""
+        },
+        {
+          "id": 110,
+          "original_id": 7,
+          "theme": "Connaissances techniques",
+          "question": "Le taux de rendement actuariel d'une obligation à taux fixe est :",
+          "options": {
+            "A": "Le taux utilisé pour le calcul du coupon",
+            "B": "Le taux de référence du marché monétaire",
+            "C": "Le taux d'actualisation qui permet d'égaliser le prix de marché avec la somme actuelle des flux futurs"
+          },
+          "correct_answer": "C",
+          "explanation": ""
+        },
+        {
+          "id": 111,
+          "original_id": 8,
+          "theme": "Connaissances techniques",
+          "question": "Une OATi est une :",
+          "options": {
+            "A": "Obligation à taux révisable indexée sur l'EURIBOR 12 mois",
+            "B": "Obligation immunisée contre le risque de taux d'intérêt",
+            "C": "Obligation assimilable du Trésor indexée sur l'inflation"
+          },
+          "correct_answer": "C",
+          "explanation": ""
+        },
+        {
+          "id": 112,
+          "original_id": 9,
+          "theme": "Connaissances techniques",
+          "question": "Pendant une période appelée \"période de souscription\", les obligations émises par une entreprise peuvent être souscrites par des investisseurs sur :",
+          "options": {
+            "A": "Le marché primaire",
+            "B": "Le marché libre",
+            "C": "Le marché secondaire"
+          },
+          "correct_answer": "A",
+          "explanation": ""
+        },
+        {
+          "id": 113,
+          "original_id": 10,
+          "theme": "Connaissances techniques",
+          "question": "Les Titres de Créances Négociables (TCN) sont :",
+          "options": {
+            "A": "Les deux",
+            "B": "Des instruments financiers",
+            "C": "Des actions"
+          },
+          "correct_answer": "B",
+          "explanation": ""
+        },
+        {
+          "id": 114,
+          "original_id": 11,
+          "theme": "Connaissances techniques",
+          "question": "La rémunération des titres de créances négociables est :",
+          "options": {
+            "A": "Fixe",
+            "B": "Libre",
+            "C": "Toujours égal à 1%"
+          },
+          "correct_answer": "B",
+          "explanation": ""
+        },
+        {
+          "id": 115,
+          "original_id": 12,
+          "theme": "Connaissances techniques",
+          "question": "Une obligation convertible est un titre hybride qui permet au porteur :",
+          "options": {
+            "A": "De convertir le titre en actions",
+            "B": "De convertir la fiscalité du titre",
+            "C": "De convertir la devise de cotation"
+          },
+          "correct_answer": "A",
+          "explanation": ""
+        },
+        {
+          "id": 116,
+          "original_id": 13,
+          "theme": "Connaissances techniques",
+          "question": "Le compte à terme (CAT) est un contrat d'épargne dans lequel :",
+          "options": {
+            "A": "La somme épargnée est bloquée pendant toute la durée du contrat et le taux d'intérêt n'est pas garanti",
+            "B": "La somme épargnée est bloquée pendant toute la durée du contrat et le taux d'intérêt garanti peut être fixe ou progressif",
+            "C": "La somme épargnée peut être retirée à tout moment sans pénalités et le taux d'intérêt n'est pas garanti"
+          },
+          "correct_answer": "B",
+          "explanation": ""
+        },
+        {
+          "id": 117,
+          "original_id": 14,
+          "theme": "Connaissances techniques",
+          "question": "Quelle est la durée minimale de blocage des sommes déposées sur un compte à terme ?",
+          "options": {
+            "A": "Un mois",
+            "B": "Six mois",
+            "C": "Un an"
+          },
+          "correct_answer": "A",
+          "explanation": ""
+        },
+        {
+          "id": 118,
+          "original_id": 15,
+          "theme": "Connaissances techniques",
+          "question": "Concernant la négociation d'un future, quelle affirmation est juste ?",
+          "options": {
+            "A": "Il est impossible de vendre un futures sans l'avoir préalablement acheté",
+            "B": "Il n'y a jamais de livraison physique de la marchandise sous-jacente à échéance du contrat",
+            "C": "L'acheteur et le vendeur sont irrémédiablement engagés et ne peuvent se dédire"
+          },
+          "correct_answer": "C",
+          "explanation": ""
+        },
+        {
+          "id": 119,
+          "original_id": 16,
+          "theme": "Connaissances techniques",
+          "question": "Les FIA (fonds d'investissement alternatifs) :",
+          "options": {
+            "A": "Doivent avoir un dépositaire",
+            "B": "N'ont pas de prospectus",
+            "C": "N'ont pas de dépositaire"
+          },
+          "correct_answer": "A",
+          "explanation": ""
+        },
+        {
+          "id": 120,
+          "original_id": 17,
+          "theme": "Connaissances techniques",
+          "question": "Lequel de ces organismes est un FIA ?",
+          "options": {
+            "A": "Un OPCVM",
+            "B": "Une SCPI",
+            "C": "Un TCN"
+          },
+          "correct_answer": "B",
+          "explanation": ""
+        },
+        {
+          "id": 121,
+          "original_id": 18,
+          "theme": "Connaissances techniques",
+          "question": "Parmi ces produits, lequel fait partie des \"biens divers\" ?",
+          "options": {
+            "A": "Un contrat d'assurance-vie en unités de compte",
+            "B": "Un bon de souscription d'actions",
+            "C": "Un placement dans des bouteilles de vin"
+          },
+          "correct_answer": "C",
+          "explanation": ""
+        },
+        {
+          "id": 122,
+          "original_id": 19,
+          "theme": "Connaissances techniques",
+          "question": "Les intermédiaires en biens divers :",
+          "options": {
+            "A": "Ne sont pas soumis au contrôle de l'AMF",
+            "B": "Doivent fournir les informations utiles sur l'opération proposée préalablement à toute communication à caractère promotionnel ou à tout démarchage",
+            "C": "Ne sont pas soumis au Code monétaire et financier"
+          },
+          "correct_answer": "B",
+          "explanation": ""
+        },
+        {
+          "id": 123,
+          "original_id": 20,
+          "theme": "Connaissances techniques",
+          "question": "Une offre publique de jeton (ICO) est ainsi qualifiée :",
+          "options": {
+            "A": "Quel que soit le nombre de personne à qui elle est proposée",
+            "B": "Lorsque le nombre de personne à qui elle est proposée est supérieure à un seuil fixé par le RG AMF",
+            "C": "Lorsque le nombre de personne à qui elle est proposée est inférieure à un seuil fixé par le RG AMF"
+          },
+          "correct_answer": "B",
+          "explanation": ""
+        },
+        {
+          "id": 124,
+          "original_id": 21,
+          "theme": "Connaissances techniques",
+          "question": "Parmi les affirmations suivantes concernant des prestataires de services sur actifs numériques «PSAN», laquelle est exacte ?",
+          "options": {
+            "A": "Un prestataire de services sur actifs numériques «PSAN» doit utiliser un langage technique pour décrire la technologie des registres distribués (blockchain) dans les supports de communication",
+            "B": "Un prestataire de services sur actifs numériques «PSAN» doit utiliser une langue compréhensible pour les clients français sur tous les supports de communication",
+            "C": "Un prestataire de services sur actifs numériques «PSAN» agréé par l'AMF doit être présent de manière permanente sur le sol français et assurer toute la communication commerciale en français"
+          },
+          "correct_answer": "B",
+          "explanation": ""
+        },
+        {
+          "id": 125,
+          "original_id": 22,
+          "theme": "Connaissances techniques",
+          "question": "Lorsque la gestion d'un portefeuille est dédiée à un client unique, on dira qu'elle est de type :",
+          "options": {
+            "A": "Collective",
+            "B": "Discrétionnaire",
+            "C": "Unique"
+          },
+          "correct_answer": "B",
+          "explanation": ""
+        },
+        {
+          "id": 126,
+          "original_id": 23,
+          "theme": "Connaissances techniques",
+          "question": "Les parts d'un OPCVM peuvent :",
+          "options": {
+            "A": "Être rachetées à leur coût moyen pondéré",
+            "B": "Être rachetées à leur valeur liquidative",
+            "C": "Être rachetées à leur valeur historique"
+          },
+          "correct_answer": "B",
+          "explanation": ""
+        },
+        {
+          "id": 127,
+          "original_id": 24,
+          "theme": "Connaissances techniques",
+          "question": "La performance absolue d'un fonds sert à :",
+          "options": {
+            "A": "Mesurer sa performance par rapport au taux sans risque",
+            "B": "Mesurer sa performance sans relation avec un autre fonds ou un benchmark",
+            "C": "Mesure sa performance par rapport à un indice"
+          },
+          "correct_answer": "B",
+          "explanation": ""
+        },
+        {
+          "id": 128,
+          "original_id": 25,
+          "theme": "Connaissances techniques",
+          "question": "Plus la volatilité d'un fonds est importante :",
+          "options": {
+            "A": "Plus grand est l'écart de performances possibles",
+            "B": "Plus ses pertes sont importantes",
+            "C": "Plus son rendement est important"
+          },
+          "correct_answer": "A",
+          "explanation": ""
+        },
+        {
+          "id": 129,
+          "original_id": 26,
+          "theme": "Connaissances techniques",
+          "question": "Le terme de \"gestion pour compte de tiers\" regroupe :",
+          "options": {
+            "A": "La gestion participative",
+            "B": "La gestion individualisée sous mandat",
+            "C": "La gestion alternative"
+          },
+          "correct_answer": "B",
+          "explanation": ""
+        },
+        {
+          "id": 130,
+          "original_id": 27,
+          "theme": "Connaissances techniques",
+          "question": "La Directive OPCVM 5 :",
+          "options": {
+            "A": "Oblige le dépositaire à suivre les liquidités des OPCVM",
+            "B": "Permet la réutilisation des actifs dont le dépositaire assure la conservation pour compte propre",
+            "C": "Décharge le dépositaire de sa responsabilité en cas de perte d'un instrument financier conservé"
+          },
+          "correct_answer": "A",
+          "explanation": ""
+        },
+        {
+          "id": 131,
+          "original_id": 28,
+          "theme": "Connaissances techniques",
+          "question": "Un Fonds Commun de Placement dans l'innovation :",
+          "options": {
+            "A": "Doit être notamment investi à moins de 70% en titres non cotés sur les marchés",
+            "B": "N'a pas de contrainte d'investissement",
+            "C": "Doit être notamment investi à plus de 70% en titres non cotés sur les marchés"
+          },
+          "correct_answer": "C",
+          "explanation": ""
+        },
+        {
+          "id": 132,
+          "original_id": 29,
+          "theme": "Connaissances techniques",
+          "question": "Un Organisme de Placement Collectif (OPC) qui reverse à ses actionnaires ou porteurs de parts les rémunérations qu'il perçoit des instruments financiers dans lesquels il est investi est appelé un OPC :",
+          "options": {
+            "A": "De capitalisation",
+            "B": "De distribution",
+            "C": "De rétribution"
+          },
+          "correct_answer": "B",
+          "explanation": ""
+        },
+        {
+          "id": 133,
+          "original_id": 30,
+          "theme": "Connaissances techniques",
+          "question": "La taxonomie européenne désigne :",
+          "options": {
+            "A": "Une classification des activités économiques ayant un impact favorable sur l'environnement",
+            "B": "Une classification des activités économiques ayant un impact favorable sur les recettes fiscales des États membres de l'union européenne",
+            "C": "Une classification fiscales des activités économiques européennes"
+          },
+          "correct_answer": "A",
+          "explanation": ""
+        },
+        {
+          "id": 134,
+          "original_id": 31,
+          "theme": "Connaissances techniques",
+          "question": "Parmi les affirmations suivantes relatives aux styles de gestion d'actions, laquelle est correcte ?",
+          "options": {
+            "A": "Gérer des portefeuilles d'actions selon un style consiste à sélectionner des valeurs, compte tenu de certains critères préétablis, dont l'analyse de la valeur, la taille des capitalisations et la persistance des performances",
+            "B": "Les gérants adoptent un style dans le but de construire un portefeuille dont la combinaison rendement/risque devrait être inférieure à celles du marché ou de portefeuilles gérés selon d'autres critères",
+            "C": "Du côté des styles fondés sur l'analyse de la valeur, le gérant value, s'intéresse aux titres qu'il considère sur-évalués au regard des fondamentaux tels que le bénéfice, la valeur comptable, le chiffre d'affaires"
+          },
+          "correct_answer": "A",
+          "explanation": ""
+        },
+        {
+          "id": 135,
+          "original_id": 32,
+          "theme": "Connaissances techniques",
+          "question": "La stratégie d'investissement socialement responsable \"Best-in-Class\" consiste à :",
+          "options": {
+            "A": "Exclure de l'univers d'investissement les entreprises ne répondant pas à des critères socio-environnementaux minimaux",
+            "B": "Sélectionner les meilleures entreprises de chaque secteur sans en exclure aucun",
+            "C": "Investir dans des entreprises présentes dans les secteurs d'activité liés au développement durable"
+          },
+          "correct_answer": "B",
+          "explanation": ""
+        },
+        {
+          "id": 136,
+          "original_id": 33,
+          "theme": "Connaissances techniques",
+          "question": "Qu'est-ce qu'un indice boursier éthique ?",
+          "options": {
+            "A": "Un indice qui prend en compte les valeurs morales des dirigeants",
+            "B": "Un indice qui respecte toutes les notions de transparence pré et post négociation",
+            "C": "Un indice qui prend en compte les considérations environnementales, sociales et sociétales des entreprises"
+          },
+          "correct_answer": "C",
+          "explanation": ""
+        },
+        {
+          "id": 137,
+          "original_id": 34,
+          "theme": "Connaissances techniques",
+          "question": "Quelle affirmation est exacte concernant un placement ISR ?",
+          "options": {
+            "A": "C'est un placement qui peut être investi dans l'immobilier ou le capital-investissement",
+            "B": "C'est un placement qui ne recherche pas la performance financière",
+            "C": "C'est un placement qui ne peut être investi que via un OPC"
+          },
+          "correct_answer": "A",
+          "explanation": ""
+        },
+        {
+          "id": 138,
+          "original_id": 35,
+          "theme": "Connaissances techniques",
+          "question": "Qu'est-ce que la notation extra financière ?",
+          "options": {
+            "A": "Une évaluation d'entreprise intégrant une analyse très détaillée de tous les comptes hors bilan",
+            "B": "Une évaluation d'entreprise intégrant des aspects environnementaux, sociaux et de gouvernement d'entreprise",
+            "C": "Une évaluation d'entreprise intégrant des analyses détaillées des compétences des dirigeants"
+          },
+          "correct_answer": "B",
+          "explanation": ""
+        },
+        {
+          "id": 139,
+          "original_id": 36,
+          "theme": "Connaissances techniques",
+          "question": "Lors de la vente de titres financiers, le fait générateur de l'imposition est :",
+          "options": {
+            "A": "L'exécution de l'ordre de bourse",
+            "B": "Le passage en chambre de compensation",
+            "C": "Le transfert de propriété, lequel intervient 2 jours ouvrés après l'exécution de l'ordre de bourse"
+          },
+          "correct_answer": "C",
+          "explanation": ""
+        },
+        {
+          "id": 140,
+          "original_id": 37,
+          "theme": "Connaissances techniques",
+          "question": "Sauf cas particulier, les revenus financiers perçus par une société anonyme sont :",
+          "options": {
+            "A": "Incorporés parmi les autres produits réalisés et imposés à l'impôt sur les sociétés",
+            "B": "Imposés à un taux différent par rapport à celui des autres produits réalisés par la société",
+            "C": "Soumis à des droits d'enregistrement"
+          },
+          "correct_answer": "A",
+          "explanation": ""
+        },
+        {
+          "id": 141,
+          "original_id": 38,
+          "theme": "Connaissances techniques",
+          "question": "Qu'est-ce que la RSE ?",
+          "options": {
+            "A": "Le volet social du Plan de Continuité d'Activité d'une entreprise, qui vise à protéger les salariés en cas de crise sanitaire ou environnementale",
+            "B": "La Réglementation Sociale Européenne",
+            "C": "La traduction managériale dans les entreprises des objectifs de développement durable, en intégrant des enjeux extra-financiers à la stratégie économique"
+          },
+          "correct_answer": "C",
+          "explanation": ""
+        },
+        {
+          "id": 142,
+          "original_id": 39,
+          "theme": "Connaissances techniques",
+          "question": "Quelle affirmation est vraie ?",
+          "options": {
+            "A": "L'investissement socialement responsable inclut la finance solidaire",
+            "B": "La finance solidaire et l'investissement socialement responsable sont des notions différentes et ne doivent pas être confondues",
+            "C": "La finance solidaire inclut l'investissement socialement responsable"
+          },
+          "correct_answer": "B",
+          "explanation": ""
+        },
+        {
+          "id": 143,
+          "original_id": 40,
+          "theme": "Connaissances techniques",
+          "question": "Quel outil est fréquemment utilisé pour mesurer les émissions de gaz à effet de serre d'un portefeuille d'investissement ?",
+          "options": {
+            "A": "Un portefeuille n'émet jamais de gaz à effet de serre",
+            "B": "Les émissions de gaz à effet de serre d'un portefeuille ne sont pas mesurables",
+            "C": "L'empreinte carbone du portefeuille"
+          },
+          "correct_answer": "C",
+          "explanation": ""
+        },
+        {
+          "id": 144,
+          "original_id": 41,
+          "theme": "Connaissances techniques",
+          "question": "Le label ISR (investissement socialement responsable) impose une transparence renforcée. Notamment :",
+          "options": {
+            "A": "La rémunération des dirigeants doit être communiquée aux investisseurs sur une base mensuelle",
+            "B": "Un rapport sur la gestion ESG doit être communiqué aux investisseurs sur une base au moins annuelle",
+            "C": "La nationalité des dirigeants du fonds doit être communiquée aux investisseurs"
+          },
+          "correct_answer": "B",
+          "explanation": ""
+        },
+        {
+          "id": 145,
+          "original_id": 42,
+          "theme": "Connaissances techniques",
+          "question": "Quand l'objectif d'investissement d'un produit s'inscrit dans une optique durable et que ses caractéristiques environnementales ou sociales sont mises en avant, l'intermédiaire financier :",
+          "options": {
+            "A": "Doit détailler les différences avec un produit ou un indice de marché large comparable, et expliquer ainsi ses objectifs spécifiques de développement durable",
+            "B": "Peut publier sa politique de gestion des risques de durabilité",
+            "C": "Doit comparer ses performances à celles d'autres produits similaires"
+          },
+          "correct_answer": "A",
+          "explanation": ""
+        },
+        {
+          "id": 146,
+          "original_id": 43,
+          "theme": "Connaissances techniques",
+          "question": "Les critères ESG sont divisés :",
+          "options": {
+            "A": "En 3 piliers",
+            "B": "En 2 piliers",
+            "C": "En 5 piliers"
+          },
+          "correct_answer": "A",
+          "explanation": ""
+        },
+        {
+          "id": 147,
+          "original_id": 44,
+          "theme": "Connaissances techniques",
+          "question": "En France, quelle est l'autorité compétente pour accorder le statut de marché réglementé ?",
+          "options": {
+            "A": "Le Ministre de l'Économie sur proposition de l'Autorité de Contrôle Prudentiel et de Résolution (ACPR)",
+            "B": "Le Ministre de l'Économie sur proposition de l'Autorité des Marchés Financiers (AMF)",
+            "C": "Le Président de l'Autorité des Marchés Financiers (AMF) sur proposition de l'Autorité de Contrôle Prudentiel et de Résolution (ACPR)"
+          },
+          "correct_answer": "B",
+          "explanation": ""
+        },
+        {
+          "id": 148,
+          "original_id": 45,
+          "theme": "Connaissances techniques",
+          "question": "Le Service de Règlement Différé (SRD) permet :",
+          "options": {
+            "A": "Le dénouement de l'opération 3 jours après l'exécution de l'ordre",
+            "B": "Le dénouement de l'opération le dernier jour du mois boursier",
+            "C": "Le report de la position acheteuse uniquement"
+          },
+          "correct_answer": "B",
+          "explanation": ""
+        },
+        {
+          "id": 149,
+          "original_id": 46,
+          "theme": "Connaissances techniques",
+          "question": "L'ordre de bourse \"au marché\" :",
+          "options": {
+            "A": "Permet aux investisseurs de définir le prix à partir duquel l'achat ou la vente se fera",
+            "B": "Consiste à vendre ou à acheter sans limite de prix dans la limite des quantités disponibles",
+            "C": "N'est jamais prioritaire sur les autres types d'ordres"
+          },
+          "correct_answer": "B",
+          "explanation": ""
+        },
+        {
+          "id": 150,
+          "original_id": 47,
+          "theme": "Connaissances techniques",
+          "question": "Parmi les trois types d'ordre suivants, lequel est prioritaire :",
+          "options": {
+            "A": "L'ordre à déclenchement",
+            "B": "L'ordre au marché",
+            "C": "L'ordre à la meilleure limite"
+          },
+          "correct_answer": "C",
+          "explanation": ""
+        },
+        {
+          "id": 151,
+          "original_id": 48,
+          "theme": "Connaissances techniques",
+          "question": "Selon quelle périodicité les entreprises de marché doivent-elles rendre compte à l'AMF des ordres reçus des membres des marchés réglementés qu'elle gère et des transactions effectuées dans ses systèmes ?",
+          "options": {
+            "A": "Mensuelle",
+            "B": "Quotidienne",
+            "C": "Hebdomadaire"
+          },
+          "correct_answer": "B",
+          "explanation": ""
+        },
+        {
+          "id": 152,
+          "original_id": 49,
+          "theme": "Connaissances techniques",
+          "question": "S'agissant du trading algorithmique, quelle affirmation est exacte ?",
+          "options": {
+            "A": "Le trading algorithmique est réservé aux marchés réglementés",
+            "B": "Le trading algorithmique est obligatoirement du trading de haute fréquence",
+            "C": "Les ordres stop-loss peuvent être lancés via du trading algorithmique"
+          },
+          "correct_answer": "C",
+          "explanation": ""
+        },
+        {
+          "id": 153,
+          "original_id": 50,
+          "theme": "Connaissances techniques",
+          "question": "En Europe, la création de systèmes consolidés de publication, regroupant des transactions exécutées sur plusieurs plateformes :",
+          "options": {
+            "A": "Est interdite car elle génère des risques d'abus de marché",
+            "B": "Est possible et encadrée réglementairement",
+            "C": "Est impossible, vu le nombre de transactions à centraliser"
+          },
+          "correct_answer": "B",
+          "explanation": ""
+        },
+        {
+          "id": 154,
+          "original_id": 51,
+          "theme": "Connaissances techniques",
+          "question": "Qui approuve les règles de fonctionnement du dépositaire central ?",
+          "options": {
+            "A": "L'AMF",
+            "B": "La Banque de France",
+            "C": "L'AFTI - Association Française des professionnels des Titres"
+          },
+          "correct_answer": "A",
+          "explanation": ""
+        },
+        {
+          "id": 155,
+          "original_id": 52,
+          "theme": "Connaissances techniques",
+          "question": "Une OPA est une :",
+          "options": {
+            "A": "Opération par laquelle la chambre de compensation s'interpose entre l'acheteur et le vendeur de titres",
+            "B": "Opération par laquelle une entreprise achète les actions d'une autre entreprise et en devient propriétaire",
+            "C": "Opération publique anticipée"
+          },
+          "correct_answer": "B",
+          "explanation": ""
+        },
+        {
+          "id": 156,
+          "original_id": 53,
+          "theme": "Connaissances techniques",
+          "question": "Lequel de ces éléments figure dans le compte de résultat ?",
+          "options": {
+            "A": "Les immobilisations",
+            "B": "Les charges financières",
+            "C": "Les emprunts"
+          },
+          "correct_answer": "B",
+          "explanation": ""
+        },
+        {
+          "id": 157,
+          "original_id": 54,
+          "theme": "Connaissances techniques",
+          "question": "Le compte de résultat d'une entreprise :",
+          "options": {
+            "A": "Récapitule les produits et les charges de l'exercice, sans qu'il soit tenu compte de leur date d'encaissement ou de paiement",
+            "B": "Récapitule les éléments actifs et passifs de l'entreprise, et fait apparaître, de façon distincte, les capitaux propres",
+            "C": "Récapitule les produits et les charges de l'exercice en prenant en compte leur date d'encaissement ou de paiement"
+          },
+          "correct_answer": "A",
+          "explanation": ""
+        },
+        {
+          "id": 158,
+          "original_id": 55,
+          "theme": "Connaissances techniques",
+          "question": "Qu'est-ce qu'un passif ?",
+          "options": {
+            "A": "Un passif est une somme reçue ou à recevoir en contrepartie de la fourniture par l'entreprise de biens, travaux et services",
+            "B": "Un passif est un élément du patrimoine ayant une valeur économique négative pour l'entité, c'est-à-dire une obligation de l'entité à l'égard d'un tiers dont il est probable qu'elle provoquera une sortie de ressources au bénéfice de ce tiers",
+            "C": "Un passif est un élément identifiable du patrimoine ayant une valeur économique positive pour l'entité, c'est-à-dire un élément générant une ressource que l'entité contrôle du fait d'évènements passés et dont elle attend des avantages économiques futurs"
+          },
+          "correct_answer": "B",
+          "explanation": ""
+        },
+        {
+          "id": 159,
+          "original_id": 56,
+          "theme": "Connaissances techniques",
+          "question": "Le visa apposé par l'AMF sur l'information établie par une société dans le cas d'une introduction en bourse :",
+          "options": {
+            "A": "Constitue une recommandation de participer à l'opération",
+            "B": "Atteste que tous les éléments nécessaires pour décider de l'acquisition de titres de la société sont bien mis à la disposition du public",
+            "C": "Constitue une authentification des résultats comptables et financiers présentés"
+          },
+          "correct_answer": "B",
+          "explanation": ""
+        },
+        {
+          "id": 160,
+          "original_id": 57,
+          "theme": "Connaissances techniques",
+          "question": "Quelle est la base de calcul de la CSG - contribution sociale généralisée ?",
+          "options": {
+            "A": "Les revenus financiers",
+            "B": "Le montant net des salaires et pensions",
+            "C": "Le montant brut de l'ensemble des revenus d'activité ou financiers, et le montant net pour les revenus fonciers"
+          },
+          "correct_answer": "C",
+          "explanation": ""
+        },
+        {
+          "id": 161,
+          "original_id": 60,
+          "theme": "Connaissances techniques",
+          "question": "La Directive CSRD (Corporate Sustainability Reporting Directive) met en avant le concept de matérialité, et plus précisément :",
+          "options": {
+            "A": "Le concept de double matérialité, qui correspond à la matérialité financière (soit l'impact de la société et de l'environnement sur la performance financière de l'entité) et la matérialité d'impact (soit l'impact des activités de l'entité sur la société et l'environnement)",
+            "B": "Le concept de matérialité simple ou financière, qui correspond à l'impact de la société et de l'environnement sur la performance financière de l'entité",
+            "C": "Le concept de matérialité simple ou d'impact, qui correspond à l'impact des activités de l'entité sur la société et l'environnement"
+          },
+          "correct_answer": "A",
+          "explanation": ""
+        }
+      ],
+      "total_questions": 161,
+      "type": "exam_blanc"
+    }
+  ]
+}
