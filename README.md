@@ -94,7 +94,7 @@ Les contributions sont les bienvenues ! N'hésitez pas à :
 
 ## 📧 Contact
 
-Pour toute question ou suggestion, ouvrez une [issue](https://github.com/VOTRE_USERNAME/entrainement-amf/issues) sur GitHub.
+Pour toute question ou suggestion, ouvrez une [issue](https://github.com/velerl/entrainement-amf/issues) sur GitHub.
 
 ---
 
