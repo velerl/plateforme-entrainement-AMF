@@ -20,7 +20,7 @@ Plateforme d'entraînement **non officielle**, **open-source** et **gratuite** p
 1. **Cloner le repository**
 ```bash
 git clone https://github.com/velerl/plateforme-entrainement-AMF.git
-cd entrainement-amf
+cd plateforme-entrainement-AMF
 ```
 
 2. **Créer un environnement virtuel** (recommandé)
